@@ -1,0 +1,2988 @@
+
+Deterministicky dynamicky systém jde pomérné pfesné popsat, zatimco u
+stochastického jsme odkazani pouze na jeho statistické viastnosti, protoze v
+téchto systémech neexistuje jednoznaéna a stroha zavislost jednotlivych prvku.
+Procesy, které v téchto systémech probihaji, jsou pouze pravdépodobné. V
+deterministickych jsou naopak jasné definovany vstupy a vystupy a je jasné, co
+je pricinou a co nasledkem.
+
+Otevrené a uzavrené systémy. Otevfené jsou schopny reagovat na vnéjsi
+podnéty zménou své struktury nebo funkci. Tendence pojimat systém jako
+uzavreny je typicka spiSe pro staticky pristup nez pro pristup dynamicky, avSak
+v praktické roviné se reSeni problému hleda v uzavieni spoleénosti. (Prorok
+2005)
+
+9.1.3 Principy systémového mySleni
+
+Strukturnost: Struktura je zpusob uspofadani prvku, Gasti nebo slozek do
+néjakého celku a jejich vzajemnych vztaht. Do sité vztahu diléich prvku a
+vzajemnych spojeni Ize strukturovat realitu. Prostfednictvim jednotlivych vazeb
+jsou jednotlivé prvky propojeny a tvofri celek. Kazdy celek je dale celkem pro
+své viastni prvky. Podstatna je vzajemna zavislost mezi prvky v systému. Plati,
+ze €im vice jsou na sobé jednotlivé prvky systému zavislé, tim méné Ize
+pochopit chovani systému pouze na zakladé zkoumani jednotlivych prvkd
+(Mildeova, 2003)
+
+Hierarchiénost:
+
+Dalim principem systémového pfistupu je princip hierarchi¢nosti, tedy princip
+uspofadani nadfizenosti a podiizenosti. Nadsystém, systém, subsystém.
+Hierarchiénost mtze mit ruznou podobu- -éasoprostorovy faktor. Napf. z
+dlouhodobého hlediska je nepochybné dulezitéjSi pro stabilitu spole¢nosti
+ekonomika a technologicky subsystém nez politika. Zmény, které probihaji,
+mohu byt kvalitativni nebo kvantitativni. (Prorok 2012) Kazdy systém se muze
+obménovat, upravovat nebo pozménovat.
+
+Celistvost:
+
+Jednotlivé systémy pfedstavuji relativné stabilni celek (Prorok, 2012: 148).
+Systém zustava stabilni, pokud dokaze pfizpusobit a zaroven kontrolovat své
+prvky tak, aby byl schopen priméfené reagovat na vnéjsi podnéty.
+
+Vzajemna zavislost systému na prostfedi:
+
+Kazdy systém je relativné zavisly na svém okoli a je schopen své okoli do jisté
+miry ovlivAovat.
+
+Zpétnovazebni smycky:
+
+Patym principem je princip zalozeny na zpétné vazbé. Z tohoto principu Ize
+odvodit vyraznou funkci systémového pfistupu, kterym je nelinearnost. Mildeova
+(2003) uvadi, Ze vétSina systeému obsahuje zpétnou vazbu. Jednoduché
+vysvétleni. Jev A ovlivni jev B, ktery zpétné ovliviuje jev A. Z logiky véci tedy
+vyplyva, Ze u zpétnovazebnich procest nema smysl obvyklé hledan pficiny, ¢i
+pricin néjakého jevu pouze jako udalosti, které jevu predchazeji — tim dojdeme
+k dusledkum, které jsou chybné, nebot zalezi pouze na jevu, od kterého
+zaéneme vysvétlovani.
+
+Deterministicky dynamicky systém jde pomérné pfesné popsat, zatimco u
+stochastického jsme odkazani pouze na jeho statistické viastnosti, protoze v
+téchto systémech neexistuje jednoznaéna a stroha zavislost jednotlivych prvku.
+Procesy, které v téchto systémech probihaji, jsou pouze pravdépodobné. V
+deterministickych jsou naopak jasné definovany vstupy a vystupy a je jasné, co
+je pricinou a co nasledkem.
+
+Otevrené a uzavrené systémy. Otevfené jsou schopny reagovat na vnéjsi
+podnéty zménou své struktury nebo funkci. Tendence pojimat systém jako
+uzavreny je typicka spiSe pro staticky pristup nez pro pristup dynamicky, avSak
+v praktické roviné se reSeni problému hleda v uzavieni spoleénosti. (Prorok
+2005)
+
+9.1.3 Principy systémového mySleni
+
+Strukturnost: Struktura je zpusob uspofadani prvku, Gasti nebo slozek do
+néjakého celku a jejich vzajemnych vztaht. Do sité vztahu diléich prvku a
+vzajemnych spojeni Ize strukturovat realitu. Prostfednictvim jednotlivych vazeb
+jsou jednotlivé prvky propojeny a tvofri celek. Kazdy celek je dale celkem pro
+své viastni prvky. Podstatna je vzajemna zavislost mezi prvky v systému. Plati,
+ze €im vice jsou na sobé jednotlivé prvky systému zavislé, tim méné Ize
+pochopit chovani systému pouze na zakladé zkoumani jednotlivych prvkd
+(Mildeova, 2003)
+
+Hierarchiénost:
+
+Dalim principem systémového pfistupu je princip hierarchi¢nosti, tedy princip
+uspofadani nadfizenosti a podiizenosti. Nadsystém, systém, subsystém.
+Hierarchiénost mtze mit ruznou podobu- -éasoprostorovy faktor. Napf. z
+dlouhodobého hlediska je nepochybné dulezitéjSi pro stabilitu spole¢nosti
+ekonomika a technologicky subsystém nez politika. Zmény, které probihaji,
+mohu byt kvalitativni nebo kvantitativni. (Prorok 2012) Kazdy systém se muze
+obménovat, upravovat nebo pozménovat.
+
+Celistvost:
+
+Jednotlivé systémy pfedstavuji relativné stabilni celek (Prorok, 2012: 148).
+Systém zustava stabilni, pokud dokaze pfizpusobit a zaroven kontrolovat své
+prvky tak, aby byl schopen priméfené reagovat na vnéjsi podnéty.
+
+Vzajemna zavislost systému na prostfedi:
+
+Kazdy systém je relativné zavisly na svém okoli a je schopen své okoli do jisté
+miry ovlivAovat.
+
+Zpétnovazebni smycky:
+
+Patym principem je princip zalozeny na zpétné vazbé. Z tohoto principu Ize
+odvodit vyraznou funkci systémového pfistupu, kterym je nelinearnost. Mildeova
+(2003) uvadi, Ze vétSina systeému obsahuje zpétnou vazbu. Jednoduché
+vysvétleni. Jev A ovlivni jev B, ktery zpétné ovliviuje jev A. Z logiky véci tedy
+vyplyva, Ze u zpétnovazebnich procest nema smysl obvyklé hledan pficiny, ¢i
+pricin néjakého jevu pouze jako udalosti, které jevu predchazeji — tim dojdeme
+k dusledkum, které jsou chybné, nebot zalezi pouze na jevu, od kterého
+zaéneme vysvétlovani.
+
+stav pacienta nefesSi. Postupné se tedy objevuje postava oSetfovatele.
+OSetfovatel neni ozbrojen, je odliSen od dozorce svym oblecenim a spiSe nez
+rizikem fyzického nasilf pristupuje k pacientovi (a léci) z pozice pfirozené
+autority a pouziva psychologické postupy k ovlivfovani pacienta jako napfiklad
+pocit neustalého soudu, pocit vlastni zodpovédnosti za trest, aj. Tento koncept
+na zakladé velkého ,,rodinného souziti* jako prvni vykazoval i skuteéné vylécené
+priznaky psychické nerovnovahy.
+
+Foucault popisuje vznik dvou prvnich domu pro duSevné choré, jedna se o
+Tuketiv
+
+a o Pineluv dum. V Tukeové domé se nemocni uci zodpovédnosti, ktera by jim
+méla navratit rozum v zavislosti na jejich pokroku jsou budto odménovani nebo
+trestani. Cely dum je zasazen do koncepce rodiny, kde oSetiujici jsou autoritou
+a nemocni détmi.
+
+»Pineluv Utulek je nabozenska oblast bez nabozenstvi, oblast ciré moralky a
+etické uniformizace.“ Pinel vyuziva neustalého soudu, nemocni jsou souzeni
+oSetfovateli a nuceni soudit také sami sebe, to je nuti ke studu, ktery ma
+poslouzit k jejich napravé. Nemocni v tomto utulku projdou tremi fazemi léceni —
+Mléeni, Poznani v zrcadle a Nepfetrzity soud. V prvni fazi je nemocny upoutan
+sam v sobé a mléeni jej nuti k hanbé, poté je mu jeho viastni Silenstvi ukazano
+na jinych a on prozfe, nasleduje nepfetrzity soud, kdy se uci soudit sam sebe.
+
+3.4.1 Interpretativni sociologie. Symbolicky interakcionismus.
+
+Symbolicky interakcionismus zaéali na pocatku dvacatého stoleti rozvijet
+americti sociologové George Hebert Mead (1863 -— 1931) a Charles Horton
+Cooley (1864 — 1924) a dale jej rozpracoval Herbert Blumer (1900 — 1987),
+Erving Goffman (1922 — 1982), Howard Becker (1944) a dal&i.
+
+Sociologové této Skoly se méné zabyvaji socialnimi jevy v makroroviné a
+zabyvaji se vice kazdodennim chovanim lidi a vztahy mezi nimi.
+
+Symbolicky interakcionismus vychazi z predpokladu, Ze znacénou East chovani
+lidi neuréuji pouze objektivni charakteristiky situace, ale vyznam, jenz lidé témto
+situacim pfipisuji.
+
+Tuto ideu vyjadfil W.|. Thomas €asto citovanym pfipomenutim ,,Definuji-li lidé
+situace jako realné, jsou tyto situace ve svych dusledcich realné“. Jinymi slovy,
+naSe subjektivni interpretace svéta do znaéné miry uréuji, jak se budeme
+chovat.
+
+To éemu fikame ,realita* je ve skutecnosti socialni konstrukt, néco ¢emu
+kolektivné vénujeme pozornost a oznacime to za realné, zatimco jiné jevy
+povazujeme za irelevantni. Napriklad ve Spojenych statech jsou povazovanii bili
+a €erni lidé za pfisluSniky dvou ruznych ras, ale pfedpoklada se, ze tyto dvé
+ruzné rasy maji mnoho spoleéného. Nicméné o Afroameriéanech se Casto
+predpoklada, Ze maji ,prirozené“ atletické predpoklady, napriklad pro basketbal.
+Ve skuteénosti mohou Afroameriéané nabyvat stejné vySky i sily jako ostatni
+lidé a pouze men§Sina jsou atletické superhvézdy. Totéz se tyka bélochu.
+Rozdily v ramci rasovych kategorii pfevazuji nad rozdily mezi rasami. Protoze
+vSak véfime, Ze lidi Ize klasifikovat jako ,bilé“ a ,¢erné“ a protoze vérime, ze
+rozdily mezi nimi jsou realné, jsou realné i ve svych dusledcich.
+
+ei
+
+{or
+
+{
+
+yh
+
+oO
+
+5 Charakteristiky moderni spolecnosti
+
+Cile
+
+Cilem této kapitoly je vysvétlit proces modernizace odehravajici se od
+prumyslové revoluce. Ujasnit pojmy moderna, modernita, postmoderna.
+Seznamit s dalSimi procesy probihajicimi v sou¢asné dobé jako je masova
+spoleénost, masova kultura, masova komunikace, globalizace.
+
+Casova naroénost
+3 hodiny
+
+Pojmy k zapamatovani
+moderni spoleénost, modernita, moderna, teorie modernity, teorie moderny,
+predindustrialni spoleénost, individualizace, generalizace, socialni kontrola
+
+5.1 Teorie modernity a teorie modernizace
+
+V sociologii nalézame fadu pojmu, které se interpretuji velmi Sirokymi
+vymezenimi. Jedny z nejfrekventovanéjSich jsou pojmy moderna, modernita,
+pridavné jméno moderni. Vysvétlime tedy prisluSné pojmy s upozornénim, ze
+dulezité je pochopit smys! a logiku obdob/ od prumyslové revoluce véetné
+aktualnich trend ve spolecenském Zivoté.
+
+Teorie modernity
+
+je tvofena velkymi a pomérné abstraktnimi mySlenkovymi systémy, ve
+kterych dominuje snaha teoretiku objasnit povahu moderni spoleénosti v
+protikladu k tradiénim spoleénostem a pojmenovat sily, které staly u vzniku
+modernity a popsat procesy, skrze které se tato nova faze v lidskych déjinach
+zformovala.
+Dale zpétné vysvétlit, co se v moderni dobé pfihodilo se spoleénosti a jaké
+zmény v ni dale probihaji.
+
+Nejednou tyto uvahy obsahuji skeptické nazory na to, kam modernita
+jako celek sméfuje, zda se ji podafi zvladnout rizika a hrozby.
+
+Teorie modernizace
+
+vznikaji jako politicky motivované projekty, ukolem je zduvodnit
+intervence do spoleénosti s cilem podporit v ni urcéité zmény.
+
+Zména ma byt cilené vyvolana. Teorie modernizace nepochybuji o
+zadoucnosti zmén, které propaguji.
+
+Teorie modernizace je zaméfena na dvé oblasti: 1) na stanoveni
+zadouciho stavu, k némuz by mély spolecnosti dospét 2) hledani aktéra (U),
+kteri tyto zmény provedou.
+
+1. Panstvi legalni (totoZné s novodobym statem a byrokratickym systémem)
+2. Panstvi tradiéni (legitimovano vékovitymi a posvatnymi poradky — osobni
+vérnost)
+3. Panstvi charismatické (charisma znamena nevSsedni, puvodné magickou
+viastnost osobnosti, ti, kdo jsou opanovavani
+uznavaji panujici osobu jako vudce)
+
+Jurgen Habermas (1929)
+
+Nejvyznamnéjsi predstavitel povaleéné generace badatell. fazenych k tzv.
+frankfurtské Skole.
+
+Je stoupencem kritické teorie, podle které ma véda nejen popisovat a
+vysvétlovat, nybrz také interpretovat hodnoticim zpusobem.
+
+Je (jako jini predstavitelé frankfurtské Skoly Adorno, Horkheimer, Marcuse)
+ovlivnén Marxem, vzdy pokladal ¢ast marxismu Cetné ucéeni o revoluci za
+neaktualni a historicky vyvracenou.
+
+Do své kritické teorie zakomponoval a pretavil mySlenky Marxe, Horkheimera,
+Adorna, Marcuseho, Webera, Meada, Durkheima, Schitze, Parsonse a
+Luhmanna.
+
+Teorie komunikativniho jednani:
+
+Vychodiska:
+
+- Weberova ,,rozuméjici sociologie.“
+
+- Souziti lidi zavisi na existenci alespofh minimalniho intersubjektivniho
+souhlasu, to také souvisi s touhou Clovéka Zit v souladu s pfisluSniky svého
+druhu a zde je komunikace primarni.
+
+- Clovék tedy ma zajem o zachovani nenaruSené komunikace, touzi po
+prekonani komunikaénich poruch.
+
+- Pfiginy poruch mezilidského dialogu  spatfuje ve spolecensko-
+mocenskych pomérech, které vedou ktakovym jevum jako deklasovani,
+utlaéovani, zbavovani svépravnosti ovladanych, ignorovani jejich zajmu
+viadnoucimi ( tady Ize pouzit za pfiklad soucasnou situaci ozivovani
+extremismu —to je také naruSena komunikace)
+
+- Habermas také zdurazfuje, ze je potfeba chranit spoleénost pfede
+praktickymi dusledky manipulace ze strany socialnich technikt (je nutné se
+emancipovat od spole¢enského natlaku a komunikovat o spoleéenskych
+normach a cilech).
+
+Pojem _ ,,komunikativni jednani“ vymezuje Habermas vzhledem_ ke
+specifickym typum jednani ( tyto tfi typy je nutné chapat jako jednostranné ,
+hraniéni pfipady komunikativniho jednani):
+
+1. Teleologické jednani: zaméfené na dosazeni néjakého cile. Je to viastné
+slovni doprovod jednani, které sleduje své viastni uéely
+
+2. Normativni jednani: orientované na spoleéné hodnoty, jde zde o
+vysloveni jiz existujici normativni shody
+
+3. Dramaturgické jednani: vztahuje se k sebeprezentaci pred publikem
+
+V komunikativnim jednani jde primarné o problém dorozuméni/porozuméni
+
+neh kdo komunikativné jedna, vznasi (dle Hab.) étyfi pozadavky platnosti:
+Pravdivosti
+
+Spravnosti (ve vztahu k normam)
+
+Vérohodnosti (uprimnosti)
+
+Dorozuméni
+
+RON >
+
+Komunikativni jednani probiha vramci symbolicky — strukturovaného
+sociokulturniho zivotniho svéta (Lebenswelt). Ten je tvoren tfemi strukturalnimi
+komponentami:
+
+41 Kulturou (zasobarna védéni, ze které uéastnici komunikace €erpaji
+interpretace)
+
+definuje nasledovné: ,,Kulturou mas rozumim souhrn kulturnich konzumpénich
+statku, které jsou dany k dispozici publiku v nejsirsim slova smyslu ... za
+pomoci masové komunikace v ramci technické civilizace“ (Ktoskowska, 1967, s.
+74 -75).
+
+7.3.1. Znaky masovée kultury
+A. Ktoskowska (1967) vymezuje masovou kulturu jako oblast intelektualnich,
+
+estetickych, zabavnich a rekreaénich jevu lidského chovani, které jsou zejména
+spjaté s pUsobenim tzv. prostfedku masové komunikace, a tedy na obsahy
+témito prostiedky Sifené. Tyto jevy patfi do ramce symbolické kultury a
+prevazné nalezi do ramce kultury realizatni. Toto vymezeni piné vazané na
+prostiedky masové komunikace fada teoretiku masové kultury odmita, avSak
+Ktoskowské to umozhuje piné odliSit masovou kulturu od jinych forem kultury.
+»Diky masovym komunikaénim prostredkum se nejupinéji realizuji dvé zakladni
+kritéria, kteraé) masovou_ kulturu_ charakterizuji: kritérium kvantitativni a
+standardizaéni (Ktoskowska, 1967, s. 69).
+
+Pri charakteristice masové kultury nam také pomaha analyza vilastnosti
+kolektivu pfijemcu, tedy publika. Publikum byva vymezovano jako volné
+seskupeni charakterizované urcitou pospolitosti zajmu, znalosti, potfeb a
+hodnot. AvSak ¢im vétSi je masa publika, tim se publikum stava vice
+heterogennim a diferencovanym. Publikum masové kultury je vétSinou
+charakterizovano prostorovou atomizaci. Publikum masové kultury je publikum
+neprimé, vznikajici pusobenim shodnych podnétu Sirokého dosahu, pomoci
+prostfedku masové komunikace, nikoli tedy v dusledku fyzického sblizeni, jako
+u_publika primého, které vznika shromazdénim jedincu na urcitém misté
+vuréitém éase, pfijimajice hromadné a spoleéné tytéz obsahy, ovlivfované
+vzajemnym stykem. Vznik nepfimého publika je podminén  existenci
+technickych prostiedkt. Technické prostfedky umoziuji také realizaci
+zakladnich kritérif masové kultury, kdy standardizovany obsah je dorucéen bud’
+pomoci velkého kvanta vytisku u tiskovin, ¢i diky radiu, televizi, internetu
+velkému mnozstvi prijemcu.
+
+Uvod do studia predmétu
+
+Pfedmét je koncipovan jako zakladni vhled do sociologie. Umozni studentum
+seznamit se se zakladnimi sociologickymi pojmy a pochopit logiku spole¢enského
+vyvoje, struktury spoleénosti a jejiho fungovani. Akcent je polozen na vudéi osobnosti
+sociologie 19. a 20. stoleti a sociologicka paradigmata.
+
+Cile predmétu
+
+Cilem pfedmétu je aktivovat sociologickou imaginaci a vytvofrit zaklad ke studiu
+dalSich sociologickych disciplin. Aplikovanym interdisciplinarnim pfristupem pfispét
+k pochopeni logiky vyvoje lidské spoleénosti a k orientaci v zakladnich pfistupech
+systematické sociologie.
+
+Osnova predmétu
+
+Vymezeni prfedmétu sociologie v pracich zakladatelu.
+
+Auguste Comte — pozitivismus v sociologii, stadia vyvoje lidské spoleénosti.
+Emile Durkheim - socialni fakta, socidlni védomi, solidarita, anomie.
+Herbert Spencer — biologismus v sociologii, typy spoletnosti.
+
+Ferdinand Tonnies, Vilfredo Pareto, Georg Simmel — pristupy k charakteristice
+spoleénosti
+
+Max Weber — chapajici sociologie, teorie panstvi
+
+Karel Marx — socialné ekonomické formace
+
+Vymezeni pojmt spoleénost, socialni skupina, socialni stratifikace.
+Paradigmata v sociologii.
+
+Talcott Parsons — strukturni funkcionalismus
+
+Paradigmata souéasné sociologie.
+
+Teorie systeému N. Luhmanna.
+
+Velka sociologicka temata — moderna, postmoderna, masova spoleénost,
+globalizace.
+
+Problematika socialnich utvaru a skupin. Rodina v kontextu doby.
+
+wn
+
+NOOR
+
+bd
+
+Literatura
+
+Zakladni literatura:
+
+BERGER, P. L. Pozvani do sociologie. Praha: FMO, 1991. ISBN 80-85469-08-01
+BLAHA, |. A. Ceskoslovenska sociologie. Brno: DOPLNEK, 1997. ISBN 80-85765-86-1
+GIDDENS, A. Sociologie. Praha: Argo, 1999. ISBN 80-7203-124-4
+
+HARRINGTON, A. Moderni sociaini teorie. Praha: Portal, 2006. ISBN 80-7367-093-3
+JANDOUREK, J. Uvod do sociologie. Praha: Portal, 2003. ISBN 80-7178-749-3
+KELLER, J. Déjiny klasické sociologie. Praha: SLON, 2007. ISBN 978-80-86429-52-6
+KELLER, J. Uvod do filozofie, sociologie a psychologie. Liberec: Dialog, 2008. ISBN
+978-80-86761-81-7
+
+KELLER, J. Uvod do sociologie. Praha SLON, 2009. ISBN 978-80-86429-39-7
+MUCHA, |. Sociologie zakladni texty. Plzefi: Vydavatelstvi a nakladatelstvi AleS Cenék,
+2009. ISBN 978-80-7380-227-1
+
+PETRUSEK, M. Zaklady sociologie. Praha:AVS, 2009. ISBN 978-80-87207-02-4
+REICHEL, J. Kapitoly systematické sociologie. Praha: EurolexBohemia, 2004. ISBN 80-
+86432-80-7
+
+SUBRT, J. Postavy a problémy soudobé teoretické sociologie. Praha: ISV, 2001. ISBN
+80-85866-77-3
+
+7 Masova spoleénost jako dusledek modernizace
+
+{i Cile
+
+Na zakladé vysvétleni charakteristik masové spolecnosti umoZnit studentum
+vhled do problematiky souCasné moderni spolecnosti. Dale prispét k pochopeni
+fungovani masové kultury a masovych médii.
+
+{ Casova naroénost
+2 hodiny
+
+{J Pojmy k zapamatovani
+masova spoleénost, prah zmasovéni, masova kultura, masova média, masovy
+produkt, konzum, konformita, elita, masa
+
+7.1 Vznik, vyvoj, a charakteristiky masové spoleénosti
+
+Masova spoleénost je  specificka charakteristika rozvinutych,
+industrialnich spoleénosti, ktera jejich existenci spojuje s existenci masy jako
+zvlastniho, novodobého socialniho utvaru. Pojem masova spoleénost zaved! do
+sociologie Wiliam Kornhauser v r. 1960.
+
+V zasadé existuje dvoiité pojeti masové spolecnosti: pojeti normativni
+s vyraznymi akcenty hodnoticimi, a pojeti analytické, které se do znaéné miry
+snazi o hodnotovou neutralnost a empirickou popisnost.
+
+Prvni pojeti ma kofeny v romantické kritice kapitalismu a je spojeno
+s vyrazné elitistickymi postoji (napf.. F. Nietzsche). V zasadé se déli na tzv.
+aristokratické, v némz je zduraznéno nebezpeci ohrozeni elity masou (G. Le
+Bon, Ortega y Gasset aj.), a tzv. demokratickou az levicové liberalni, které
+zdurazfhuje nebezpeci ohrozeni masy elitou, jez muze dovedné masou
+manipulovat a dokonce ji proti jejim vlastnim zajmum zneuZzit (K. Mannheim).
+(Velky sociologicky slovnik1996, s. 1200)
+
+Masova spoleénost se postupné vytvari v prubéhu industrializace. Lidé
+v tradiénich spoleénostech Zili podle mistnich zvyklosti. Socialni kontakt se fidili
+zazitymi zvyklostmi a ritualy. Svazanost s pUdou, s mistem, kde Zili umozhovala
+velmi sporadickou moznost poznavat jiné lidské skupiny, poznavat jiné
+zvyklosti.
+
+Suvolnénim  politickych poméru vdutsledku pfemény = stavovské
+spoleénosti na spolecénost tfidni, dochazi k odchodu byvalych nevolniku do
+vznikajicich center prumyslové vyroby. Kazdé takové centrum se stavalo
+povéstnym tavicim kotlikem ruznych_ etnik, zvyklosti a otekavani.
+S primyslovou dobou piichazi disciplinovana spoleénost. Ruzné_ kulturni
+identity, které se stfetavaji na malém prostoru, mohou byt zdrojem konfliktu. To
+vyvolava potfebu discipliny zalozené na indokrinaci. Coz neznamena nic jiného
+nez, Ze jsou zavadény univerzalizované postupy pri vzdélavani, pracovni misto
+v prumyslovém podniku vyZaduje na pracovnikovi maximalné se pfizpusobit,
+
+Charakteristiky systému
+
++ neni navenek stabilni;
+
+a je uzavfeny;
+
+4 maji pevné hranice;
+
+4 pohybuje se v prostfedi, které poskytuje vzdy vice moznosti, nez si
+systém muze osvojit a zpracovat
+
+Autopoieticky systém — viastnosti
+
+vyviji se autonomné, a to tak, Ze realizuje moznosti , které jsou obsazeny
+v siti prvku, z nichz je slozen;
+
+muze se vyvijet bez ohledu na prostfedi;
+
+neustadle reaguje na prostfedi i viastni potfeby;
+
+produkuje problémy, které resi viastnimi silami;
+
+sam vnucuje vznik a povahu norem, které reguluji jeho samovyvoj;
+
+vyvoj probiha na bazi redukce komplexity
+
+sami definuji své problémy a feSi je prostfedky jim vlastnimi (pravo pravnimi,
+ekonomiku ekonomickymi...)
+
+Nepfimym dusledkem je nejen oslabeni zajmu o jedince, konkrétniho élovéka,
+jeho motivace jednani, pocity a prani, ale také ztrata zajmu o tradici, kulturni
+rozdily, o odli$né mentality narodni, etnické, ¢i jinych skupin.
+
+#
+
+FREE EE
+
+Komunikace — prostfednictvim ni je skuteéné vytvarena socialni realita.
+Je zakladni jednotkou socialnich systému — ne individualni aktéfi!
+Jde o komunikaci jako takovou, ne o komunikujici lidi.
+
+Média - evolu¢éni vymozenost, ktera transformuje nepravdépodobnost
+komunikace na pravdépodobnost.
+
+Napf. pravda, laska, penize, moc, nabozenska vira nebo jeji sekularizovana
+forma
+
+»zakladni hodnoty“
+
+Pojmové opozice: pravdivé/nepravdivé, valka/mir/, muz/zena, dobro/zlo
+VeSkeré poznani povstava zrozlisovani a vkoneénosti je zalozeno na
+paradoxu.
+
+Socidlni integrace: Lt inkluzivni - exkluzivni
+Inkluzivita pfislusniku spoleénosti vrozliénych autonomnich systémech,
+ekologicka integrace systému spoleénosti do svého prirozeného prostredi
+Exkluzivita lidé jsou vycleniovani z jednotlivych autonomnich spoleéenskych
+systému, maji snizené Sance na vzdélani, politicka prava, lékaiskou péci,
+pravni ochranu — ziskané deprivaéni zazitky z vyclenéni ze spoleénosti jsou
+pak duvodem souéasné krize spoleénosti.
+
+5.1.1 Dusledky modernizaénich procest
+
+Pri vnimani tradiéni kontra moderni spolecénosti, dochazi ke zvlaStnimu
+optickému klamu, ktery brani pochopit povahu modernizaénich procesu.
+
+PROG? ProtoZe traditni spoleénosti jsou chadpany jednolité, bez
+prihlédnuti k jejich obrovské ruznorodosti v éase i v prostoru. Dale se také
+prehlizi, Ze proces homogenizace spoleénosti a kultury je spojen az
+s modernizaci.
+
+Paradoxem se tedy stava skuteénost, ze ackoli je modernita vyrazem
+svobody vybéru, presto vSak predepisuje vSem spoleénostem jedinou mozZnou
+cestu s perspektivou jediného mozného vyusténi. Ekonomicka a_ socialni
+struktura vSech modernich spoleénosti ma byt ve skutec¢nosti totozna, pravé
+tak, jako psychické a motivaéni nastaveni jejich Clenu.
+
+V modernizaénim procesu_ spatfujeme tri hlavni stadia vyvoje
+modernity:
+
+1. Vychozi faze modernity (liberalni modernita) - konec 18. a prvni
+
+dvé tietiny 19. stol. (vétSina obyvatel tvofi vykofenéné a
+neplInopravné masy)
+
+2. Organizovana modernita — sklonek 19. stol. a prvni dvé tfetiny 20.
+
+stol.
+
+3. 3. faze (individualizace, emancipace) od posledni ¢tvrtiny 20. stol.
+Zaroven sfazemi vyvoje se objevuji dvé odliSné interpretace vyvoje
+moderni spoleénosti:
+>» Diskurs osvobozeni - zduraznéni emancipaéniho charakteru modernity
+
+oproti spolecnosti tradiéni. Moderni poméry osvobozuji od poveér,
+despotismu starého rezimu.
+>» Diskurs kontroly a dohledu — disciplinizace -— masova manipulace
+
+védomim obéanu, nové, skryté a nenapadnéjsi, o to vSak ucinnéjsi a
+
+vSudypritomnéjsi formy moci.
+
+S vyvojem moderni spoleénosti se objevuji dali charakteristiky:
+
+o Individualizace prinaSi vice svobody a pocit autenticity, zarovenh vSak
+
+pocit nejistoty, riziko osaméni a pocity odcizeni
+
+o Generalizace — nova forma organizovani spolecnosti prinasi vy$$si
+
+efektivitu a vnaSi vySSi stupef racionality do vSech lidskych Cinnosti,
+
+zaroven v sobé skryva nové formy dohledu, ucinnéjsi zpusoby
+manipulace a kontroly lidského jednani a mySleni
+
+o Proces globalizace
+
+o Nastup spoleénosti siti (nahrazeni velkych formalnich, vysoce
+
+centralizovanych a byrokratizovanych organizaci pruznymi,
+
+pohyblivymi a ménlivymi sitémi)
+
+o Krize socialniho statu
+
+5.2 Charakteristiky tradiéni a moderni spoleénosti
+
+Predindustrialni spolecnost — hlavni znaky:
+
+je to tradiéni spoleénost
+
+dominuje zemédélstvi, svazanost s prirodou
+
+prevaha nabozenstvi, tradice, ritualy
+
+rozvoj samostatnych oboru, rust celkového ekonomického i osobniho
+bohatstvi
+
+(€im vétSi bohatstvi, tim vice privilegii a prav)
+
+SUBRT, J. a kol. Soudoba sociologie |. Praha: Karolinum, 2007. ISBN 978-80-246-
+1275-1
+
+RozSirujici literatura:
+
+BLAHA, |. A. Ceskoslovenska sociologie. Brno: DOPLNEK, 1997. ISBN 80-85765-
+86-1
+
+MARTUCCELLI, D. Sociologie modernity. Praha: CDK, 2008. ISBN 978-80-7325-
+145-1
+
+MERTON, R. K. Studie ze sociologické teorie. Praha: SLON, 2000. ISBN 80-85850-
+92-3
+
+MONTOUSSE, M. Pfehled sociologie. Praha: Portal, 2005. ISBN 80-7178-976-3
+SIMMEL, G. Penize v moderni kulture a jiné eseje. Praha: SLON, 1997. ISBN 80-
+85850-50-8
+
+THOMPSON, K. Kii€ové citace v sociologii. Brno: Barrister&Principal, 2001. ISBN 80-
+85947-68-4
+
+MARIKOVA, H., PETRUSEK, M., VODAKOVA, A. Sociologické Skoly, sméry,
+paradigmata. Praha: SLON, 2000. ISBN 80-85850-81-8
+
+Pozadavky na ukonéeni predmétu
+ZkouSka:
+Zkouska je pisemna a Ustni (nejprve test o deseti otazkach, pak nasleduje ustni Cast).
+
+Pravidila komunikace s vyucujicim:
+Prostfednictvim e-mailové korespondence, v konzultaénich hodinach — zvefejnény
+na webovych strankach katedry
+
+Zemfrel roku 1984 béhem pfiprav na cestu do Polska a Vietnamu na nemoc
+spojenou s tehdy jesté prakticky neznamym virem HIV.
+
+Dila:
+- Psychologie a duSevni nemoc
+- Déjiny Silenstvi v dobé osvicenstvi
+- Raymond Roussel
+- Zrozeni kliniky
+- Slovaa véci
+- My8leni vnéjSku
+- Archeologie védéni
+- Diskurs
+- Dohlizet a trestat
+- Je treba branit spolecnost
+- Zrozeni biopolitiky
+- Déjiny sexuality
+- Vile k védéni
+- Pééeosebe
+- Sena obraznost
+
+Déjiny Silenstvi (francouzsky Histoire de la folie a l'age classique) je kniha
+od Michela Foucaultaz roku 1961. Tento francouzsky filosofse tu diva na
+Silenstvi z mnoha uhlt pohledu. PiSe o jeho vzniku, jak ho lééit nebo jak
+bychom se méli pred Silenci chovat. Své poznatky doplhuje priklady.
+
+Ukazuje nam, jak se v Evropé od stfedovéku po osvicenstvi ménil pohled na
+Silence. Ve stfedovéku takovy Clovék nebyl nijak vylougen ze spoleénosti, nebyl
+chapan jako Spatny nebo nebezpeény. V renesancibylo blaznovstvi
+povazovano za vaSen, ktera je v Zivoté velice dulezita. Vzniklo i dilo Chvala
+blaznivosti, kde je dokonce obdivovano.
+
+V osvicenstvi ale Silenec zacina byt vniman negativné. V tomto obdobi je
+dulezity pfedevsim rozum, véda, pokrok a racionalita. Sileni nebo i postizeni
+lidé jsou oddélovani od spoleénosti.
+
+Pravé pro dulezitost nastupu rozumu v dobé osvicenstvi |ze za snahou popsat
+»déjiny Silenstvi* sledovat latentni snahu definovat rozum tim, jak se v déjinach
+proménoval pohled na nerozum — nedostatek rozumu — Silenstvi. Lidé véznéni
+a nasilné lé¢éeni nebyli pouze psychicky nesvépravné osoby, ale napfiklad
+osoby nepohodiné politické, nabozenské, nebo ekonomické sfére dané doby.
+
+V tomto dile se Foucault zabyva nejen Silenstvim samotnym a pohledem na lidi
+povazované danym déjinnym pohledem za Silence, ale i vyvojem
+koncentraénich prostor a lécéebnych metod uréenych k resocializaci ¢i
+odstranéni Silencu z dohledu.
+
+V poéatcich cileného odstrafovani lidi prohlaSenych za Silence byli tito lidé
+sméSovani spolu s vrahy a jinymi zlocinci ve véznicich, kde byli vystaveni
+stejnym podminkam fyzického a psychického tyrani jako trestanci odsouzeni za
+nasilny akt. Pozdéji pod silici potfebou nesméSovat tyto dvé skupiny lidi, kdy
+vzajemna pfitomnost vytvarfela vysokou miru psychického tlaku, ktery z
+obyéejnych vézhu délal blazny a samotni blazni bud’ propadali stavum uzkosti,
+nebo zachvatim nezvladatelné zufivosti, za¢aly vznikat prvotni specializované
+ustavy pouze pro lidi s nedostatkem rozumu, blazny. Z vézefiského konceptu
+vézen/pacient — ostraha, bylo potfeba ustoupit, protoze sam o sobé duSevni
+
+2 Chapajici sociologie Maxe Webera (1864 — 1920)
+
+ 
+
+Cile
+Na zakladé seznameni s Weberovou sociologii vysvétlit princip rozuméjici
+sociologie, ktera znamena zasadni obrat ve vyvoji sociologického mySleni.
+
+Pojmy
+Rozuméjici sociologie, panstvi, byrokracie, typy jednani, idealni typ
+
+Casova naroénost
+
+Pojitkem Weberovych praci je analyza kapitalistické spoleénosti. Jeho
+sociologie je, spiSe nez védou o spoleénosti, védou o socialnim jednani.
+
+Kulturni lidé jsou podfizeni ruznym kulturnim fadim, musi se neustale
+prizpusobovat ménicim se podminkam.
+
+Nepfijima nazory Hegela ani Marxe v oblasti filosofie déjin. Racionalita
+jednani je vzdy spjata s urcitou svobodnou moznosti autonomniho jedince.
+
+V déjinach se neuskutechuje smys! déjin, Weberovo pojeti je jakousi
+alternativou.
+
+Racionalita neni déjinnou racionalitou — neuskutechuje se zadny smysl
+déjin, racionalita je neustaly pokus, neustaly boj se silami iracionalizace,
+mytizace, ideologizace, které ovliviuji lidské mySleni a jednani. Racionalizace
+zivota moderni spolecénosti ma svuj pocatek v novovéku, v obdob/ vzniku
+kapitalismu.
+
+V budoucim kapitalismu nachazi novou etiku — nova smysluplina Zivotni
+orientace, kvalitativné odliSné od evropského tradicionalismu.
+
+Odéarovani svéta. Idea povolani, zrozena z ducha kfestanské askeze.
+Webera nezajima expanze kapitalismu, ale vyvoj této moderni formy lidstvi.
+
+Teoretické pristupy
+
+Socialni jednani — 2 slozky:
+
+RACIONALNI- mizeme analyzovat a to v pojmech: - hypoteticky Ginitel
+
+— motivace
+— prostfedky a cile
+
+Analyticka sociologie
+
+IRACIONALNI ast socialniho jednani se vymyka nasi védecké analyze
+a muzeme ji pouze chapat.
+
+Chapajici sociologie
+
+Panstvi
+
+V ramci typologie panstvi zkouma vztahy nadvlady a podrizeni. Panstvim
+rozumi situaci, kdy vule viadce (celé viadnouci skupiny) dokaze ovlivnovat
+jednani ovladanych takovym zpusobem, ze ovladani vykonavaji prikazy a
+nafizeni viladcu jakoby ze své viastni vule.
+
+byt konformni, nejen v praci, ale postupné i v Case mimo praci. Spoleénost,
+mozna pfesnéji spolecenské elity, tak provadéji soustavny a velmi efektivni
+dohled nad chovanim a mySlenim zaméstnancu. Prikladem takové disciplinace
+je taylorismus. Indokrimace je usnadnéna velkou koncentraci lidi na malém
+prostoru, kteri si vice Ci méné uvédomuji, Ze patii k sobé, Ze prezit znamena
+byt maximalné konformni. Tato konformita je samozifejmé procesem
+ambivalentnim, kromé rizik prinasi i ulehéeni pri feSeni kazdodennich problému.
+
+Méstsky, prumyslovy Clovék je tak podfizen jasnému organizaénimu
+radu. Cas je rozd&len na presné vymezené periody, ve kterych se stfida prace,
+starost o rodinu a jeji bezpeci, spanek. VSichni stejné stavaji, pripravuji stejna
+jidla, pracuji v podnicich, kde je univerzalni systém fizeni. S rozvojem masové
+vyroby zacinaji lidé masové pouZzivat stejné véci, po stejnych vécech zacinaji
+touzit. Vzpomeneme-li si na Durkheimova socialni fakta, je jisté, Ze generace,
+rodici se do tohoto systému si automaticky pfivlastiuji zasadni prvky
+spolecenského védomi.
+
+Kornhauser (in Velky sociologicky slovnik, s.200) charakterizuje
+masovou spoleénost témito znaky:
+
+1. industrialni logika, ktera diferencuje lidi podle toho, co vyrabéji, nikoliv
+podle skupinové pfrisluSnosti;
+
+2. pad komunitnich vazeb a  dominace  neosobnich — vztahu,
+depersonalizace;
+
+3. nahrazeni mistnich skupin organizaénimi systemy a masovymi
+organizacemi;
+
+4. vznik tzv. masové arény, ktera nahrazuje regionalni spolecenstvi a
+umozfuje simultanni prezentaci téhoz fenoménu zejm. prostiednictvim
+masovych médii;
+
+5. egalitarismus, kdy vSichni jsou posuzovani stejné, totiz podle
+partikularnich kritérif.
+
+6. numericka superiorita, kdy je teméf vSechno pfevoditelné na Cislo a kdy
+uspéch se vyjadfuje nikoliv hodnotové, ale kvantitativné
+
+7. omezeni zajmu o regionalni procesy a problémy a obrat k tzv. svétovym
+problémtm prostfednictvim médii;
+
+8. postupny vznik politické apatie a alienance;
+
+9. mimofadna role masovych médii;
+
+10. vznik masové kultury.
+
+7.2 Masova média
+Rysy masové komunikace dle J. B. Thompsona (Thompson, 2004, s. 28-31)
+
+1. Masova komunikace vsobé zahrnuje jisté technické a_institucionalni
+prostredky pro produkci a Sirfeni obsahu. Vyvoj médii je zalozen na sérii
+technickych inovaci, jejichz vyuziti je proces odehravajici se v ramci fady
+instituci a institucionalnich siti, které prubéZné formuji, jak média pracuji.
+
+2. Komodifikace (zhodnocovani) symbolickych sdéleni. Ke zhodnoceni
+symbolického sdéleni muze dojit dvéma hlavnimi zpusoby. Symbolické
+zhodnoceni je proces pfisouzeni symbolické hodnoty symbolickému sdéleni.
+
+fe
+
+2. Spoleénosti (legitimni fady, prostfednictvim nichz se reaguje na
+prisluSnost k socialnim skupinam
+
+3. Osobnostmi (kompetence, které subjekt Cini schopnym jednat, viastni
+identita)
+
+Dvoustupnhovy model spoleénosti
+
+Je zalozen na dualistické koncepci — na teorii jednani( Zivotni svét) a systemové
+teorii (systém).
+
+Obé éasti jsou na sobé zavislé — systémova oblast je zavisla na tom, co se déje
+Vv zivotnim svété (jednani a osudy jednotlivcu, rozuméjici sociologie Weber).
+Zivotni svét je zavisly na systémové oblasti, nebot’ v ni se produkuji prostfedky
+pro jeho materialni reprodukci.
+
+Mohou se také dostavat do vzajemného konfliktu — napf. kdyz penize
+jako mechanismus systémové integrace pfesahuji do zivotniho svéta a zde
+blokuji mechanismus dorozuméni.
+
+Je zfejmé, ze Habermas pouziva ke konceptu zivotniho svéta jak
+procesy v socialnim jednani dle Webera,tak i systémovou teorii Luhmannovu.
+S Luhmannem také velmi ¢ile komunikoval a kritizoval jeho teorii, zejména
+proto, Ze neni sto dostate¢né objasnit procesy utvareni socialniho systému
+(nepfijima mySlenky autopoiesis), proto ze nebere vuvahu komunikativni
+jednani v kontextu Zivotniho svéta.
+
+Vykolejeni moderny:
+
+Kofeny v kapitalistickém charakteru zapadni cesty modernizace, v niz dominuji
+imperativy akumulace kapitalu a mzdy, které si vynutily pfednost kognitivné-
+instrumentaln{ racionalizace pred moralné-praktickou a esteticko- praktickou
+racionalizaci a Zivotni svét podfidily pozadavkum hospodaistvi a spravy.
+
+Dvé obdobi vyvoje kapitalismu:
+
+-liberalné kapitalistické — stat nezasahuje do hospodaiskych proces. Rozpor
+mezi systémem a Zivotnim svétem kolonizovanym prostfednictvim média
+penéz.
+
+-pozdné kapitalistické -— dochazi k propojeni systému ekonomického se
+systémem politickym — korekce trznich mechanismU, socialné politicka opatieni
+statu
+
+Souhrn
+
+Pochopeni rozdilu mezi tradiéni a moderni spolecénosti dava pochopit
+gigantiénost premén spoleénosti a tim i osudu jednotlivct v obdobi od
+prumyslové revoluce. K posouzeni obou typt spoleénosti je dobré se vratit
+k Ténniesovu vymezeni gemeinschaft a gesellschaft.
+
+e substancialni racionalizace - schopnost posoudit, zda naSe kroky vedou
+k cili
+
+e cil: chovat se v zajmu druhého Clovéka a nepoSkodit jej
+
+e neexistence monopoll' > konkurence mezi sobé rovnymi
+
+Uvedené charakteristiky porovnejte s Ténniesovym rozdélenim spolecnosti
+
+na gemeinschaft a gesellschaft.
+
+Spoleénost moderni — hlavni znaky:
+e Industrializace je proces, béhem néhoz dochazi ke zméné
+spoleénosti (z tradiéni na moderni)
+e industrialni spoleénost, prumyslova spolecnost, spolecénost védéni
+(Liessmann)
+Zmény:
+e manufakturni vyroba se méni na délbu prace — roste produktivita
+prace
+e rust produktivity — lidska prace je nahrazena vyrobnimi prostiedky
+objevuje se fenomén nezaméstnanosti
+rozvoj obchodu a plavby
+pokrok v ruznych védnich oborech
+vynalez parniho stroje (18. stol.)
+objev elektrického proudu (19.- 20. stol.)
+rozvoj informaénich technologif (konec 20. stol.)
+prumyslova revoluce je takovym specifickym pohybem vyrobnich sil,
+kterého se uéastni vSichni Clenové spolecnosti — netyka se jen
+néjaké uzké skupiny (x tradiéni spoleénost: pfevrat provadéla urcita
+tfida na ukor jinych tid)
+e stat je schopen zasahovat do zivota domacnosti (socialni davky)
+e stéhovani se do mést za praci — vznik aglomeraci — rozvoj
+infrastruktury
+e existence uzké jednoty mezi potfebami spolecnosti a zajmy jejich
+élenu
+ekonomicka nejistota
+trh se pfesunuje do centra zajmu
+zrod svéta je vykladan védecky — nehraje takovou roli nabozenstvi
+formalni (technicka) racionalita — navod k pouziti, ktery nam fika, jak
+byt UspéSny bez ohledu na druhé
+doba emancipace a osvobozeni ¢lovéka — individualizace Clovéka
+e Moderni spoleénosti se zpravidla  rozvijeji na pudorysu
+centralizovanych narodnich statu
+
+DalSi zdroje radikalni promény spoleénosti — generalizace trhu
+
+Skuteéna hranice mezi tradiéni a moderni spoleénosti je pomérné ostra a
+
+je vyznacena radikalni pfeménou instituce trhu. V ekonomickém Zivoté
+tradiénich spoleénosti hral trh podstatné jinou roli, obchod slouzil ke sméné
+malého mnozstvi vyrobku, pfi¢emz jednotlivé trhy tvofily malé ostruvky
+propojené jen minimalné. Oblast ekonomiky se v tradiénich spoleénostech
+neustavila jako samostatny systém, to nastava az v moderni spoleénosti, kdy se
+roztrouSené a izolované trhy transformovaly do podoby komplexniho a
+
+e 3STADIA VED: 1. Teologické ( ptevaha obrazotvornosti nad
+zkuSenosti - teologicky koncept)
+2. Metafyzické (souvislosti jevu jsou vysvétlovany ze
+vSeobecnych ideji a abstraktnich sil - filosofie)
+3. Pozitivni (jediné kritérium pravdy je shoda s fakty)
+
+Vysledkem uvah nad socialnim fadem a poslanim sociologie je rozdéleni
+sociologie na dvé odvétvi — socialni statiku a socialni dynamiku:
+Socialni statika:
+> zakladnimi pojmy jsou RAD a KONSENSUS
+teorie spontanniho radu spolecénosti
+- vzajemna zavislost a shoda slozek, které se vzajemné doplhuji a podminuji
+jedna druhou — normalnim stavem spoleénosti je spontanni soulad — konflikty a
+poruchy souladu povazuje za patologické jevy — zduraznéni ulohy rodiny ve
+spolecenském Zivoté, hierarchické délby prace, kooperace, organické jednoty,
+viastnictvi
+Socialni dynamika:
+>» teorie nevyhnutelného a neustalého pokroku lidstva,
+ktery probiha podle zminéného zakona 3 stadii — spojitost diléich pohybu
+(pokrok jedné slozky spol. Zivota, uvede nutné do pohybu i slozky ostatni
+je ur€ovana
+1. Primarni Ginitelé (lidsky duch a jeho vyvoj — prisluSné formy védy, uméni,
+politiky, hospodarského a spolecenského zfizen/)
+2. Sekundarni Cinitelé (hybné sily pokroku, jsou to vnéjsi podminky
+spolecenského zivota zejména rasa, podnebi, socialni soutéz, ktera
+zavisi na hustoté obyvatelstva)
+
+1.3 Emile Durkheim (1858 — 1917)
+
+Narozen nedaleko Strasburku ve Vogéz vrodiné rabini a utiteld
+smalymi piijmy. Studuje na prestizni Ecole normale supériere — &kole
+vychovavajici budouci humanitni elitu naroda. Jiz zde se zacina jevit jako filosof
+s velkou budoucnosti a neobyéejnou pracovni schopnosti. Roku 1882 dosahl
+agregace - konkurz zajiStujici misto stfedoSkolského profesora. Jeho zajem se
+presouva stale vice od filosofie spi$e k politickym a socialnim aplikacim.
+
+1895 - studuje psychologii v Némecku, od r. 1902 profesorem sociologie
+na Sorbonné na katedfe pedagogickych véd, ale az od roku 1913 jej jim
+prednaSeny obor rozsifen o sociologii.
+
+Ve své védecké Cinnosti navazuje na mySlenky Descarta, Rousseaua,
+
+Saint-Simona, Comta a vytvaii ramec pro analyzu socialnich systému, kterou
+se ma zabyvat jak sociologie, tak antropologie.
+V déjinach sociologie mu patfi fada prvenstvi: napsal metodologickou knihu
+Pravidla sociologické metody, zalozil sociologicky C€asopis, soustredil kolem
+sebe skupinu sociologu a tak zaéal s tymovou praci a prvni oznaéil sociologii za
+védu o skupinach.
+
+Durkheim se v oéich svych souéasniku prosadil jako hlava sociologické
+Skoly diky tomu, ze se mu podafilo predstavit sociologii jako shrnujici teorii
+schopnou integrovat a systematizovat socialni fakty lépe nez jakakoliv
+disciplina. Zaroveni zni uéinil obor, kterému je mozno vyucovat, protoze
+
+fe
+
+{2
+
+Kdybyste nepozdravili své kolegy nebo neodpovédéli na pozdrav, mozna stravi
+pul hodiny pfemySlenim nad tim, zda jste je ignorovali zamérné a jak by se méli
+zachovat az vas potkaji pristé. Konformita vuci o¢ekavani a dalSi zvykové
+chovani buduje zakladni duvéru, ktera je nezbytna pro vSechny socialni
+interakce.
+
+Jina oblast nedavného zajmu symbolickych interakcionistU je sociolingvistika:
+studium socialnich faktoru ovlivfujicich feéové vzorce. Sociolingvisté tvrdi, ze
+lidé neuZzivaji fee (a neverbalni narazky) jenom ke sdélovani informaci, ale také
+proto, aby se umistili ve vztahu vuci ostatnim. Nejvice je zajima tento ,,tichy
+jazyk“. Jakych konversaénich technik napfiklad vyuzivaji muzi, aby si udrzeli
+dominantni pozici vuci Zenam?
+
+Proé afroameriéané vymySleji nova slova, véta a gramatické stavby? Jini
+symboliéti interakcionisté se zajimaji o nevédomé znalosti, nevyslovené
+porozuméni a dovednosti, jichz vyuzivame, aniz bychom premy$leli o tom, co
+délame a bylo by pro nas tézké to vysvétlit. Napfiklad basketbalova
+superhvézda Michael Jordan vi, jak perfektné nahrat, ale mozna by neumél
+vysvétlit, jak to déla. A podobné je tomu s mnoha kazdodennimi dovednostmi.
+
+Kliéové pojmy symbolického interakcionismu jsou: vyznamy, symboly,
+interakce, ja a role.
+
+Ackoli maji mnoho riznych oblasti zajmu, zaméfuji symboliéti interakcionisté
+Svoji pozornost stejnym smérem.
+
+Pro tyto sociology jsou zakladnimi otazky typu: ,,Jak lidé interpretuji své socialni
+scénafe?" ,Jak dospéji ke spoleénému chapani a nevédomym znalostem?“ ,Jak
+kazdodenni interakce podporuje a modifikuje socialni definice reality?“
+Symboliéti interakcionisté zejména pozoruji a zaznamenavaji socialni drama do
+co nejmensgich detail. Zabyvaji se emocemi uéastniku i jejich otevfenym
+manifestnim chovanim.
+
+Souhrn
+
+Sociologie je v tomto obdobi vice soustfedéna na jednajici aktéry socialniho
+zivota. Foucault poukazuje na realizaci moci ve spoleénosti prostifednictvim
+kontroly.
+
+Otazky
+
+1. Porovnejte jednotlivé sméry sociologie. Na co reaguji? Jak fesi otazku
+koheze spoleénosti?
+
+2. Vydefinujte pojmy sociolingvistika a entometodologie.
+
+%
+De
+{1
+
+{
+
+y
+
+A
+
+XV
+
+4 Talcott Parsons — struktura a funkce
+
+Cile
+Seznamit s principy Parsonsova uvazovani o spoleénosti. Vysvétlit kohezi
+spolecnosti na principech strukturalniho funkcionalismu.
+
+Pojmy k zapamatovani
+Strukturni funkcionalismus, systém, AGIL system,
+
+@ Americky sociolog — predstavitel strukturniho funkcionalismu, sméru, ktery
+v padesatych letech minulého stoleti pfedstavoval natolik dominantni teoreticky
+systém, ze bylo béZné spojovat jej se sociologif vubec.
+
+Studoval nejprve pfirodni, posléze hospodaiské védy. V letech 1925 — 1927
+studium v Evropé — Londyn, kde se seznamuje s kulturni antropologii B.
+Malinowskeho — Heidelberg k A. Weberovi (bratru M. Webera), zde se vénuje
+problematice kapitalismu v dilech W. Sombarta a M. Webera.
+
+e Po navratu do Ameriky zacina pusobit na Harvardové univerzité. 1931 je zde
+povéfen fizenim nové zalozeného sociologického pracovisté.
+
+1942 zaklada na této univerzité mnohooborovy Department of Social Relations.
+
+Ve své teoretické praci pfekonava pfistupy charakteristické pro dosavadni vyvoj
+evropské sociologie. Zavrhl procesualni teorie v pojeti Comta, Spencera a
+Marxe. Jde mu 0 teorii platnou pro vSechny typy spoleénosti, obecna teorie,
+ktera neni pouze o americké nebo zapadni spoleénosti. Teorie, ktera méla byt
+zéasové a prostorového hlediska formulovana tak vSeobecné, aby mohla
+obsahnout ruzné historické epochy a ruzna teritoria.
+
+Atraktivita jeho pfistupu spociva vtom, ze neni zaméfena_ k vysvétlovani
+ur¢itych historickych nebo souéasnych procesu, nybrz usiluje o to byt platnou za
+vSech okolnosti. Pro toto zaméfeni mu inspiraci poskytlo dilo kulturnich
+antropologu Bronislawa Malinowskeho a Alfredav R. Radcliffe-Browna.
+Malinowski zdurazrioval vyznam spoleéenskych instituci. Ty jsou posuzovany
+podle toho jaky je jejich prinos k napinéni potreb jedincu. Zanikaji a jsou
+nahrazovany jinymi.
+
+U R. Browna je dulezity pojem funkce, ktery je spjat s udrzenim spoleénosti
+vrovnovazném stavu. Funkce jsou pravidelné se opakujici aktivity posilujici
+soudrznost a prispivaji k udrzeni socialni kontinuity.
+
+Parsons byl dlouhou dobu nezpochybriovanym teoretikem. Toto dominantni
+postaveni nevyplyva pouze zpfislusnosti k Harvardové univerzité, neexistujici
+konkurenci v teoretické a pojmové oblasti. Vdéci za né predevsim bohatstvim
+,paradigmatu“, které tehdy jediné bylo schopno poskytnout makrosociologickym
+analyzam urcity ramec.
+
+Parsonstv zak Robert King Merton posunuje jeho teorii dal k funkcionaini
+analyze, ktera mu umozhuje vypracovat radu teorii ,,stfedniho dosahu".
+
+1) biologicko-reprodukéni fce — zabezpecuje udrzeni zivota pocetim a
+porozenim nového Clovéka. Nejde jen o to pfivést dité na svét, ale zabezpecit
+mu potfebné podminky Zivota a jeho dali vyvoj.
+
+2) Ekonomicko-zabezpetovaci fce — v sou¢asné dobé je rodina spotfebni
+jednotkou, zcela zavisla na vyrobni Cinnosti spoleénosti.
+
+3) Emocionalni fee — emocionalni fce v rodiné vazana na piné rozvinutého
+€lovéka, pro néhoz citovy vztah je trvalou bazi jistoty a citovym zazemim pro
+vSechny jeji Cleny.
+
+4) Socializaéné- vychovna fce —. Zabezpetuje spolecenskou kontinuitu.
+Spociva v opravdovém zajmu o dité a kvalitni péci o né, jeho vychovu, prfijeti,
+porozuméni, uspokojovani jeho pozadavku a potfeb, rozvoj jeho schopnosti.
+Jejim tézistém je prosazovani a ochrana détskych prav. (Umluva o pravech
+ditéte)
+
+Pribuzenstvi — vztah mezi jedinci, jenz vznika budto shatkem nebo pokrevnimi
+vazbami v otcovské ¢i matefské linii
+Pribuzenstvi — systém socialnich pout zalozeny na uznavani genealogickych
+vztahu z legalizovaného manzelstvi
+- vztahy pokrevni — otec a syn
+- afinitni - manzel a manzelka
+- spojeni pokrevnich a afinitnich svazku umozhuje vznik pfibuzenskych
+
+- Manizelstvi — sociainé akceptovany a posvéceny sexualni svazek mezi
+dvéma dospélymi jedinci shatkem dvou partnert se stavaji pribuznymi
+nejen oni sami, ale i jejich rodi¢ée, sourozenci a dal8i pokrevni pribuzni
+kazdého z nich
+
+- rozliSujeme mezi rodinou a SirSim pribuzenstvim
+
+podie E. Westermarcka — manzelstvi je relativné trvalé souziti muze a zeny,
+které se neomezuje na souloz a udrzuje se rovnéz po narozeni ditéte
+
+Nuklearni rodina — sklada se z dospélych a jejich viastnich ¢i adoptovanych
+déti Zijicich ve stejné domacnosti. Pokud v jedné rodiné Ziji kromé obou rodiéu
+a jejich déti i dalsi blizci pribuzni jde o rozSifenou rodinu.
+
+e Manzelstvi v zapadnim svété dnes spojeno s monogamii — p/iznava
+oznaéeni manzel, manzelka pouze jedné zené a jednomu muzi zaroven
+
+e Primitivni spoleénosti - skupinové manzelstvi (trvalé souziti skupiny
+muzt se skupinou zen)
+
+e Polyandrické manzelstvi — souZiti jedné Zeny se skupinou muzu,
+spojeno obvykle s matrilinearnim dédénim a pribuzenstvim
+
+e Polygamni manzelstvi — zalozeno na pohlavnim styku jednoho muze
+s vice Zenami
+
+Y Patrilinearni zpusob oznaéovani piyibuznosti — uznava pfibuzné
+pouze v muzské linii
+
+v¥ Matrilinearni zpusob — za pfibuzné uznava pouze osoby spojené
+zenskou linif
+
+- vdne&ni rodiné tento zpUsob oznaéovani témé? zanikl
+
+sociologii vymezil obsah, ktery uz neni zalezitosti zdravého lidského rozumu,
+ale zalezitosti védy => socidlni fakt. Je spjaty s funkcionalismem (...clovék je
+ve svém jednani nejvice ovliviovan socialnim tlakem).
+Teoretické pristupy
+Své pojeti sociologie budoval na pozitivistickém zakladé. Sociologii
+definoval jako védu o socialnich faktech nebo také jako védu o socialnich
+institucich. Smér, ktery Durkheim zalozil, byl nazvan sociologismem. Jeho
+vyznamnym pfinosem pro sociologii je objeveni socialnich faktu a s nimi
+souvisejici
+pojmy.
+SOCIALNI FAKTA: PYedstavuji zvlaStni druh svébytné skuteénosti
+Specifické rysy, které odliSuji fakty socialni od fakt prirodnich nebo od
+individualni psychiky:
+e vnéjsi donuceni
+e kolektivni raz téchto faktt zakotveny v kolektivnim védomi
+e Jsou to druhy jednani, mySleni a citéni existujici mimo jedince a nadané
+donucujici silou, kterou se mu vnucuji.
+e Napf. mravy, pravo, nabozenstvi, jazyk, méda.
+e Hlavnim pravidlem sociologické metody je zkoumat je jako véci — toto ma
+pouze metodologicky charakter, nikoliv ontologicky smysl.
+
+KOLEKTIVNi VEDOMI:
+
+Vyjadfuje zakladni soubor pfedstav socialni skupiny, které vytvafreji
+dominantni tlak na jednani a chovani jedince. Materialni pfedméty, napf.
+budovy, komunikace, pravni kodexy jsou znaky a symboly téchto socialnich
+predstav socialni skupiny
+SOCIALNI STAVY: Jsou totozné se stavy kolektivniho védomi, zvlaStni druh
+skuteénosti, ktera je odli$na od individualni psychiky.
+
+SOCIALNi SOLIDARITA
+° Ma vysvétlit vnitini socialni soudrZnost spoleénosti, jeji vnitini
+
+vazby
+— +
+
+Organicka: spotiva ve vzajemné potiebé
+sluzeb, Vladne v modernich spoleénostech.
+K jejimu vzniku vede rust spolecenské délby
+prace. Vytvafri individualismus
+
+    
+
+ 
+
+    
+     
+
+Mechanicka: — slepé _ podiizeni
+jedince kolektivni vuli. Vladne
+Vv primitivnich spoleénostech. Délba
+prace vpotatcich -  chybéla
+
+      
+                 
+
+¢SEBEVRAZDA je éisté socialni jev — 3 zakladni typy:
+
+e Egoisticka (priéina v rustu socialni izolace, osamélost, rozvedeni, nab.
+spoleéenstvi)
+
+e Anomicka (nédmos — fec. zakon, nepiitomnost zakona, rozvrat
+spoleénosti, absence norem, situace, kdy pfestavaji platit pravidla
+chovani, ktera byla doposud zavazna a nova jesté neplati )
+
+e Altruisticka (zpusobena rustem socialni vazanosti jedince na skupinu,
+tedy jakysi opak egoistické, povinnost obétovat se za skupinu)
+
+...ma za nasledek, Ze vzdalené skuteénosti, at’ jiz ekonomické nebo jiné,
+nas ovlivAiuji mnohem pfiméji a zejména bezprostfednéji, nez tomu bylo v
+minulosti. (Mezficky)
+... jedna jedina jistota soucéasnosti i blizké budoucnosti — jistota nejistot
+(Sua)
+. tiziko a strach — rizika se kvalitativné i kvantitativné liSi od rizik
+minulosti — jsou totiz prumyslové vyrobena
+rizika maji tendence rust s rustem zavislosti na technice a
+technovédé, coz se projevuje pohodinym spoléhanim lidi na abstraktni systémy
+(,ono to néjak dopadne", ,ono se to vyfesi, ,on to nékdo vymysli")
+... Spirala ohrozeni
+
+Ulrich Beck chape rizikovou spoleénost jako spolecénost reflexivni,
+(sebe)kritickou, ktera si sama sebe uvédomuje jako riziko a_ problém.
+Globalizace je socialnim procesem v souhrnu nefizenym a spontannim, ktery
+jako celek neni fizen Zadnou racionalni ani duchovni silou, muze vést k
+nezamySlenym dusledktm — téZko Ize prognézovat jeji vyvoj.
+
+Globalizace (na rozdil od univerzalizace) neni zamérem, ale primarné je
+souborem globalnich efektu, notoricky necekanych a nezamySlenych.
+(Petrusek)
+
+Sociologicky pohled na globalizaci
+
+Globalizace neméfi vSem_ stejnym metrem - svédéi zejména
+pfipravenym s dostate¢énym kapitalem, ostatnim se vydobytky globalizace
+vzdaluji. (Keller)
+
+Prilezitosti a plody globalizace jsou rozdéleny nespravedlivé a nerovné:
+moc a bohatstvi se soustied'uje ve vybrané skupiné lidi, narodu a nadnarodnich
+spoleénosti, zatimco ostatni jsou odsunuti na okraj. (Vitek)
+
+Beck rozdéluje vrstvy v globalnim svété:
+
+Vitézové globalizace (ekonomicky uspéch a pravdépodobnost maximalizace
+ziskU)
+
+Vykonna elita (Uzce spojena s vitézi, pracuje pro né, vzdélani flexibilni,
+vSestranné gramotni, sluSna Zivotni Uroven)
+
+Porazeni (lidé citelné zasazeni zanikem pracovnich mist /zejm. méné
+kvalifikovanych/, diky svému neuspéchu na trhu prace jsou tito nepotfebi a
+nadbyteéni odsouzeni k prezivani v marginalité) (Pongs)
+
+Charakteristika globalizace:
+
+Giddens ji oznacuje jako proces rostouci vzajemné zavislosti ve vSech
+oblastech spolecenského Zivota. Svét se v jejim dusledku stava v rozhodujicich
+aspektech jedinym socialnim systémem, ktery je vysledkem rostoucich vazeb
+vzajemné zavislosti. Tato zavislost dnes ovlivAuje skuteéné kazdého.
+
+Socialni, politicka a ekonomicka spojeni, ktera pfekraC¢uji a bofri hranice
+mezi zemémi, ovlivhuji osudy vSech lidi, ktefi v téchto zemich Ziji. Proto je
+globalizace terminem pro oznaéeni rostouci vzajemné zavislosti svétové
+spoleénosti.
+
+Giddens dale vymezuje 2 hlavni rysy globalizace:
+
+1. Vzajemna zavislost (vzajemna propojenost) vSeho a vSech ve
+svétovém prostoru, ne kazdy ma z toho prospéch.
+
+Symbolicky interakcionismus spociva na nékolika navzajem propojenych
+vychodiscich. Lidé, aby se mohli zapojit do néjaké spoleéné Cinnosti, musi mit
+néjaké
+
+komunikaéni prostfedky. Komunikujeme spolu prostfednictvim symbolu jimiz
+nejsou jen slova a véty, ale také gesta a Cinnosti, které ziskaly néjaky socialni
+vyznam.
+
+Tomu, co chovani a udalosti znamenaji, se ucime v interakcich i s jinymi lidmi,
+které od nas vyzaduji, abychom svoji Cinnost a jeji interpretaci prizpusobili
+€innostem a interpretacim druhych. Dokonce i naSe identita ve smyslu ja je do
+znaéné miry zalozena na tom, jak vidime naSe jednani se odrazet v o¢ich
+druhych — Charles Horton Cooly to vyjadfil slovnim spojenim ,odrzcadlené ja".
+Na&e ja neni nikdy stabilni, je podfizeno neustalé redefinici a revizi jakoZto
+vysledek socialni interakce.
+
+Néktefi pfedstavitelé symbolického interakcionismu naértli analogii mezi
+socialnim zivotem a divadlem vtzv. dramaturgickém pfistupu. Ten nejlépe
+vystihuje znama pasaz z ,Jak se vam libi* W. Shakespeara:
+
+Cely svét je divadlo,
+
+vSichni lidé jsou herci,
+
+maji své nastupy a odchody,
+jeden Clovék hraje mnoho roli.
+
+Stejné jako ve hfe musi na jevisti kazdy herec hrat néjako roli, tak kaZdy ¢len
+spoleénosti ma néjakou roli vuci ostatnim ¢lenum (manzel nebo manzelka,
+student nebo uCitel).
+
+Stejné jako herci na jevisti hraji svoji roli podle scénafe, aktéri ve spoleénosti
+dodrzuji pravidla pfijatelného chovani. Maji vSak v kazdé roli prostor pro
+improvizaci. Kazdy herec predvadi svoji interpretaci, ktera Caste¢né zavisti na
+tom, jak je role napsana a €asteéné na jeho pfinosu pro roli, na tom, jak pojmou
+své role ostatni herci a na tom, jak reaguje publikum, at uz realné nebo
+imaginarni.
+
+Nicméné, pokud se herci své roli pfiliS vzdali budou pravdépodobné oznaéeni
+za ,devianty*. Kazdy ¢lovék ve spoleénosti, stejné jako herec v divadle, hraje
+béhem svého zivota mnoho roli.
+
+Jini sociologové v ramci této Siroké teoretické perspektivy, ktefi jsou nazyvani
+,etnometodologové“, nezaméfruji svoji pozornost na role, které lidé védomé
+hradi, ale na rutinni, vSednodenni chovani lidi, které se povazuje za
+samozfejmé.
+
+Etnometodologové tvrdi, Ze cementem spoleénosti, ktery ji udrZzuje pohromadé
+a umoznuje socialni Zivot, Ze podlozi Siroce pfijimanych ale neuvédomovanych
+pravidel, ktera si lidé uvédomi jen, kdyz je nékdo porusi. Vezméme si jako
+priklad kaZdodenni pozdravy: ,Ahoj, jak se ma8?“ ,Dobfe, a ty?“. Na prvni
+pohled se zdaji byt tyto reflexni promluvy trivialni. Ale predstavte si, co by
+nasledovalo, kdybyste je ignorovali.
+
+Interpretativni sociologie povazuje socialni realitu za konstrukt v myslich
+lidi a zajima ji, jak je tento konstrukt lidmi vytvarfen, chapan a interpretovan.
+
+Badani v oboru sociologie se odviji od kladeni otazek na spoleénou
+podstatu byti.
+
+Dne&ni svét je znepokojivy, ale zaroven pred nami otevira netuSené
+perspektivy. Je to svét prochazejici nescetnymi zménami, poznamenany
+hlubokymi konflikty, napétim a socialnimi rozdily pravé tak jako nicivym
+dopadem moderni techniky na Zivotni prostfedi. Sou¢asné vSak mame takové
+moznosti rozhodovat o viastnim osudu a utvafet své Zivoty k lepSimu, jaké si
+predchozi generace nedokazaly ani predstavit.
+
+Jak tento svét vznikl?
+
+Proé jsou nase zivotni podminky tak odli$né od téch, v nichz Zili nasi
+predkové? Kam budou sméfovat zmény budouci?
+
+To jsou otazky, na néz hleda odpovédi sociologie — védni obor, ktery ma
+vyznamné misto v intelektualnim déni moderni doby.
+
+Sociologie se zabyva studiem socialniho zivota, skupin a spoleénosti.
+Jeho predmétem je nase viastni chovani, Clovék jako spolecensky tvor. Od
+analyzy jednorazovych interakci jednotlivch po zkoumani globalnich
+spoleéenskych procesu.
+
+Priklady:
+
+Laska a manzelstvi: Zamilovani, proé se do sebe lidé zamiluji. Dva, kteri
+se zamiluji, Casto vstupuji do manzelstvi. Tento pohled, pro nas tak
+samozifejmy, je vSak ve skute¢nosti spiSe neobvykly. Laska, sexualita a
+manzelstvi zacaly byt povazovany za néco, co spolu uzce souvisi, az v moderni
+dobé. Ve stfedovéku to bylo naprostou vyjimkou. Romanticka laska a chovani
+dvorskych kruhu. Vztahy manzelu byly formalni.
+
+Ani mezi bohatymi, ani chudymi nerozhodoval o shatku jedinec sam.
+
+Neni pravidlem tvrzeni, Ze pro muze je smysiem laska a k zené a
+naopak. Ani romantickou lasku tedy nelze chapat jako néco pfirozeného, ale
+jako néco, co je vysledkem mnoha spolecenskych a historickych vlivu.
+
+Zdravi a nemoc: Jak néco, co povazujeme za fyzicky stav, souvisi se
+SirSimi sociologickymi vlivy? Mnohé kultury nesdileji ani samotné pojeti nemoci
+jako télesné poruchy.
+
+1.2 Typologie historickych spolecenstvi
+na zakladé diferenciace socialnich vztahu, struktur a spolecnosti.
+
+1. Diferenciace segmentarni - charakteristické pro archaické
+spolecnosti
+
+* podobny zpusob Zivota * velmi podobné archaické formy « spoleénosti
+sbéraéu, lovct atp. * rovnost-nerovnost  rozdilnost ve spolecenském postaveni
+na zakladé napf. véku * u pastevcu rozvrstveni majetkové
+
+2.Diferenciace stratifikaéni — charakteristické pro tradiéni spolecnosti
+/€asteéné pro formovani spoleénosti moderni/
+
+* pocetné velké, slozité strukturované a hierarchizované * rozvoj mést +
+majetkova diferenciace
+
+3. Hodnocenim situace jednajicim, jenz se neustale musi pokouSet nalézt
+rovnovazny stav mezi svymi individualnimi potfebami a spolecéenskymi
+pozadavky.
+
+3.2 Teorie konfliktu
+
+Prfedstavitelé:
+Lewis Coser (1913), Ralf Dahrendorf (1929)
+
+Zakladni vychodiska a znaky
+e Vznika jako kriticka reakce na jednostrannosti strukturné funkcionalniho
+pristupu.
+e Ptase: Jaké sily udrZuji soudrznost socialniho fadu?
+Jakou povahu ma vnitini strukturace spolecnosti?
+Cemu slouzi a jaky je piivod socidlnich nerovnosti?
+Snazi se tedy zjistit, pro koho je existujici stav funkéni, kKomu (na rozdil od
+strukturniho funkcionalismu, ktery resi, jaké funkci slouzi instituce z hlediska
+celku) dana instituce ¢i organizace slouzi.
+
+L. Coser: Zabyva se funkcemi soc. konfliktu. V tomto svém zaméfeni jej
+Zajima soudrznost kolektivu a védomi soundalezitosti jedincu se skupinou.
+KONFLIKT jako POJISTNY VENTIL umoZfujici uvolnéni pfebytkového
+napéti,
+Které by jinak mohlo ohrozit stabilitu skupiny
+e 2typy chovani, které je tézce neseno integrovanou a solidarni skupinou:
+
+Renegatstvi (renegat skupinu opustil, avSak neustale Uto¢i na hodnoty, v néz
+skupina stale véri)
+Hereze (heretik zustava uvnitf skupiny, zakladni hodnoty vyklada jinym
+zpusobem, nezZ je oficialni vyklad — hrozba vzniku frakce uvnit? skupiny)
+e Konflikty mezi skupinami— nap?r. Valka — zkouska soudrznosti
+e Nerealisticky a realisticky konflikt:
+- nerealistické vznikaji z deprivaci a frustraci, z presunu puvodné
+realistického antagonismu na nahradni objekty.
+- Realisticky vyplyva z reainych pricin — reseni reainé existujiciho
+sporu, je zakonéeno tim, Ze silnéjsi partner sporu zvitézi
+
+R. Dahrendorf:
+
+Pta se: Proé v souéasnych podminkach nedochazi k tak ostrému
+tfidnimu boji jako v minulém stoleti?
+
+Drive
+
+. Jsou to konflikty mezi témi, ktefi maji moc nebo se na ni podileji a
+témi, ktefi jsou z podilu na ni vylouéeni.
+
+. Drive byl politicky a ekonomicky konflikt temér totozné.
+
+. Vladnouci a ovladani tvofili relativné uzaviené tridy.
+
+. Téméf neexistovala socialni mobilita.
+
+. Nebyly instituce, které by vyrazné regulovaly vztahy mezi tfidami.
+Nyni
+
+Organizovani ruznych zajmovych skupin do spolkt a politickych
+
+. Stale rostouci mira horizontalni a vertikalni mobility.
+
+. Rozvijeni novych forem fizeni a kontroly a parlamentarismu,
+TEDY prosazovani typu OTEVRENE SPOLECNOSTI
+
+Oo Zaruka civilisa¢éniho vyvoje spociva také v institucionalizaci a
+racionalizaci konfliktu...
+
+Lidsky blahobyt vyZaduje jak zaopatieni, tak i opravnéni.
+Dokud se neprolomi tradi¢éni struktury opravnéni a nevytvori se
+
+prvky obéanské spoleénosti, znamena makroekonomicky rust malo!
+
+3.3 Interpretativni sociologie
+
+Pfedstavitelé:
+Albert Schiitz (1899-1959), George Herbert Mead (1863-1931)
+
+Zakladni vychodiska a znaky:
+
+Oznaéeni se pouZiva pro sociologické pfistupy:
+Fenomenologicka sociologie
+Etnometodologie
+Symbolicky interakcionismus
+
+Oo Dramaturgicka sociologie
+Sociologie védéni
+
+-Spoleénost nelezi pred clovékem jako néjaky jiz hotovy fakt
+
+-Lidé ji musi stale interpretovat
+
+-Neni to pouze Cinnost profesionalu, déla to kazdy Clovék, tzn. Jak aktér,
+
+uéastnik socialniho
+
+zivota rozum{ tomu, co délaji jini lidé, co jini lidé (jeho souéasnici a pfedchudci)
+
+vytvorili,
+
+jak rozumi objektum socialniho svéta — predevsim jazyku a symbolum
+
+- Odhlizi od obecnych teorif o spoleénosti a orientuje se na problematiku:
+
+- interpretace lidského chovani a jednani; - symboliky komunikace
+
+v kazdodennim Zivoté.
+
+Pfi ziskavani dat jsou dulezité kvalitativni postupy.
+
+Alfred Schiitz: Rakousky emigrant Zijici v USA. Podstatné ovlivnil teoretickou
+sociologii tim, Ze zpochybnil tradiéni sociologické metody. Silné na néj
+zapusobila Husserlova fenomenologie.
+
+Fenomenologicka sociologie. Interpretativni sociologie znamena tfi odli$né véci:
+1. zkuSenostni forma zdravého rozumu 2. epistemologicky problém 3. specialni
+metoda socialnich véd. Sociologie je predevSim zkouma kaZdodennich lidskych
+aktivit v pfirozeném prostfedi. Protoze bez interpretace neni mozna
+komunikace, socialni interakce a kooperace.
+
+Jaky smysl ma lidské jednani je tfeba objasnit z béznych situaci socialniho
+zivota.
+
+Georg.H. Mead: Americky socialni filosof, ktery se dlouhou dobu vénoval
+psychologii a filosoficky se hlasil k americkému pragmatismu. Na jeho nazory
+navazuji sociologové zaméfujici svoji pozornost zejména na socialni interakci.
+
+ZatéZ se kumuluje a stale vice se vymyka predvidatelné kontrole.
+
+Trzni rust, pasivni demokracie a konzumni styl zivota vznikly v ruznych
+historickych souvislostech, dnes se vSak prolinaji a ve svém negativnim
+pusobeni na Zivotni prostfedi se navzajem umocnhuji.
+
+Sili snahy dosahnout, udrzet a maximalizovat blahobyt.
+
+Jestlize 19. st. bylo ve znameni spoleénosti nerovnosti, dnes nastupuje
+spoleénost nejistoty.
+
+Nejistotu a obavy pfitom budi tytéz technologie, které se podilely na
+zatla€éovani bidy a umoznily demokratizaci konzumu, coz se_ stava
+kontraproduktivni. Nova technologicka rizika zpravidla ohrozuji i ty, kKdo se
+pohybuji v symbolickém svété individualismu, coz vede ke globalizaci
+nejzavaznéjsich rizik (oteplovani, ozénova dira, desertifikace aj.).
+
+Rizika a strach s nimi spojeny problematizuji samotné zaklady legitimity
+moderni spoleénosti.
+
+Spolecenské subsystémy se staly systémy autopoietickymi — tedy zcela
+samostatnymi, samo se tvoficimi, samo regulujicimi (viz. systémové teorie
+Luhmann a Parsons).
+
+Diky autonomii téchto sektoru prestalo byt mozné zasahovat z politickych
+pozic do oblasti védy, hospodafskych aktivit.
+
+V dobé, kdy nové technologie plodi obrovska rizika, pfestava byt
+zminéné vymezeni subsystému funkén/.
+
+Novym rizikum spoleénost neni schopna ucinnéji elit. Omezuje se na to,
+ze je ufedné eviduje, komeréné vyuZziva Ci politicky bagatelizuje. Vysledkem je
+vznik systému institucionalizované nezodpovédnosti, kdy staci, aby priroda byla
+poSkozovana v rozsahu ufedné povolenych predpist a norem.
+
+Problém socialni kontroly
+
+Urbanizace pfispéla k rozbiti tradi¢nich komunit a vytvofily se tak
+prostory s extrémné nizkou socialni kontrolou.
+
+MS dokazala prolomit strnulé kontrolni mechanismy, které spolehlivé
+chranily éleny spoleénosti tradiénich pred inovativnim jednanim.
+
+Prudké socialni pohyby vyvolavaji zaroveni s moZnostmi emancipace téz
+vétSi pocit nejistoty v dusledku padu stavovskych jistot a rozvolnéni fady
+tradiénich pospolitnich vazeb.
+
+Vysledkem je pfizrak spolecnosti masové, ktera je svéraznou kombinaci
+hromadné konformity a nekontrolovatelnosti.
+
+Konzum jako azyl
+
+Obavy Ulricha Becka doplfime postfehy naSeho sociologa Jana Kellera,
+ktery se také zabyva dusledky modernizace pravé ve sféfe ochrany Zivotniho
+prostfedi a konzumu.
+
+Jan Keller ve své knize Az na dno blahobytu uvadi, Ze lidé byli vytrzeni
+ze svych pfirozenych komunitnich vztahu a jejich Zivot ztratil bezprostfedni
+kontakt srytmem piirody. Velké a socialné nepfehledné organizace, které
+sleduji cile, které jedinec sam neformuluje ani nekoriguje. Efektivita fungovani
+celku je zalozena pravé na naprosté osobni indiferentnosti (Ihostejnosti).
+
+Paradoxem doby je, ze ekonomicky rust nedokaze automaticky
+redukovat chudobu. Byl zaznamenan narust poctu absolutné chudych.
+Vysledkem je, Ze dnes Zivori na pokraji smrti hladem v rozvojovych zemich tolik
+obyvatelstva, kolik ho v poloviné 19. st. obyvalo celou planetu.
+
+5.2.2 Prinos Jirgena Habermase k pochopeni modernity
+
+Historie lidstva ¢lenéna podle zpUsobu vyroby. Nahazime zde analogii
+s Comteovymi stadii véd. Pokud Comte povazuje za rozhodujici faktor vyvoje e
+pokroku uroven lidského poznani, potom Marx za ného dosazuje rozvoj
+vyrobnich prostfedku a vztah mezi tfidami.
+
+Marx definuje tzv. spole¢ensko-ekonomické formace: - prvobytné — pospolna —
+otrokarska — feudalni — kapitalisticka — komunisticka
+
+1.5. Ferdinand Ténnies (1855-1936)
+
+Jeden z nejaktivnéjSich prukopnikt univerzitni sociologie v Némecku.
+Vystudoval filologii a filozofii. Byl jednim z téch, ktefi seznamovali némecké
+publikum s Hobbesovymi mySlenkami.
+
+Celou svoji univerzitni kariéru (1881-1933) prozil na univerzité v Kielu.
+Profesorem se stal v r. 1914.
+
+Do povédomi se zapsal knihou ,Gemeinschaft und Gesellschaft", jez je v
+mnoha ohledech vrcholnym dilem  psychologizujici sociologie. Zdroje
+spolecenstvi a spoleénosti nachazi ve dvou typech lidské ,,vule“. 1. Wesenwille
+— opira se o organickou a pudovou pfirozenost — zdroj pospolitosti 2. Kirwille —
+implikuje reflexi a rozhodnost — zdroj spoleénosti. Toto dilo, pres Ténniesovy
+protesty, bylo tendenéné interpretovano.
+
+Gemeinschaft: 3 typy vztahu: 1.mezi matkou a ditétem 2.mezi manzeli
+3.mezi sourozenci
+
+Pokrevni pospolitost
+
+Pospolitost teritorialni (spoleéné bydliSté)
+
+Pospolitost ducha (spoleéné jednani zaméfené jednim smérem a
+jednomysiné)-nejvySsi druh pospolitosti
+
+3 typy pospol. tohoto druhu:
+
+- pribuzenstvi (domacnost)
+
+- sousedstvi (vesnicka komunita)
+
+- pratelstvi (profese)
+
+Ekonomickym zakladem je kolektivni viastnictvi.
+
+Uméni
+
+Vzajemné porozuméni jedincu
+
+Solidarita, tradice
+
+Emocionalita
+v obdobi, kdy Némecko zachvatila nacionalisticka horecéka a v pospolité
+minulosti hledal protijed na problémy souéasnosti.
+Gesellschaft: Kruh lidi, ktefi ziji a bydli vedle sebe, nejsou vSak vzajemné
+spjati, ale rozdéleni.
+Kazdy zde sleduje pouze své viastni zajmy, vztahy mezi jejimi prisluSniky jsou
+napjateé.
+Viddnou zde smluvni vazby, vztahy smény materialnich statku a vztahy
+kalkulace
+Nastrojem kontroly zformalizované pravo
+Lidé se fidi hlavné ohledem na vefejné minéni
+Hospodaiskym zakladem je obchod, prumysl, penize a soukromé viastnictvi
+Vztahy se vytvareji ve velkoméstech, v oblasti politiky a ve staté
+Véda
+Postaveno na racionalité a zakonech
+
+Vykonova orientace unmoznuje posoudit situaci a podle toho vybrat specifické
+
+reseni.
+
+Askriptivni jednani je striktné orientované na pfedepsana FeSeni (napf.rozkaz).
+|. Uréenost/Specifiénost — Neuréenost/Difuznost
+
+Uréené chovani je striktné determinované roli.
+
+Vneuréeném chovani nejsou ocekavani spojena srolemi jednajicich
+
+jednoznaéné vymezena.
+
+4 zakladni funkce tykajici se preziti systému -— AGIL - schéma
+
+ 
+
+ 
+
+ 
+
+ 
+
+Instrumentdlni Konzumni
+Vnéjsi A (adaptation ) adaptace G (goal attainment ) dosahovani cilu
+Vnitini L (latent pattern maintenance ) || ( integration ) integrace
+udrzovani latentnich vzorct
+
+ 
+
+ 
+
+ 
+
+4.1 Niklas Luhmann ( 1927 - 1998 )
+
+Némecky sociolog, jeden z nejvyznamnéjgich i nejkontroverznéjsich myslitelu
+moderni doby.
+
+Narozen v Lubecku. V letech 1946 — 1949studoval prava ve Freiburgu. V letech
+1960 — 1961 pod vedenim T. Parsonse absolvoval studijni pobyt na Harvardu.
+V sedmdesatych a osmdesatych letech se zapsal do povédomi odborné
+vefejnosti v Némecku mj. i svymi UspéSné vedenymi polemikami s Jurgenem
+Habermasem.
+
+Pfi praci na formulaci nové systémové teorie se zpocatku neubranil Parsonsové
+vlivu. Byl mu sympaticky jeho pokus zalozit univerzalné platnou, vSeobecnou
+sociologickou teorii na nové, systémové bazi. Z tohoto vlivu se vSak postupné
+vymanil.
+
+Je kritikem souéasné sociologie. Vytyka ji :tradiéni orientaci - neschopnost
+patiiéné objasnit a vysvétlit procesy, které se odehravaji v moderni spoleénosti.
+Opousti pristupy klasiki oboru (Weber, Durkheim, Pareto), a namisto toho
+pfedklada viastni model sociologické teorie. Prosazuje interdisciplinarni
+charakter sociologie. Snazi se vyvinout viastni teoretickou fee (€erpa z
+ostatnich védnich disciplin — kybernetiky a biologie).
+
+Je tvurcem a reprezentantem systémové teorie (systemového paradigmatu).
+Luhmannova teorie, vychazejici z paradigmatu autopoietickych systému a
+umozfhujici popsat vazby a chovani vysoce strukturovanych, nezavislych a
+diferencovanych oblasti moderniho socialniho zivota, nepatfi k snadno
+pristupnym a osvojitelnym teoriim.
+
+ 
+
+° Nejednoznaéné a kontroverzné pouzivany pojem slouZici k
+vyjadieni charakteristickych znak& souéasné doby.
+
+° Je reakci na spolecenské zmény v sedmdesatych letech 20.
+stol., kdy se zacina hovorit o spolecnosti kvalitativné nové, o
+spolecnosti informacni ve které se informace stavaji zakladem
+pragmatickych opatfeni posilujicich efektivitu vyspélych systémd.
+
+° Novy technicistni model spolecnosti, neponechava velky
+prostor individualni svobodé rozhodovani podle pfedpokladu
+nezavisiého subjektu svobodné si rozvrhujiciho a planujiciho svij
+viastni Zivot.
+
+Moderna je vnimana jako néco nového, moderniho coz je
+protikladem k_ tradi¢nimu, zastaralému. Vyvoj  spolecnosti
+predpoklada neustaly pokrok.
+
+CIL: vétsi blahobyt a vétsi politické svobody.
+
+Postmoderna je skeptickaé vidi nadéjim podobného typu.
+Z mnoha nebezpeci pramenicich z prevahy instrumentalnich Cinnosti
+je zde nebezpedci zniceni oblasti komunikativniho jednani.
+
+3.4.1 Michel Foucault (1926 — 1984)
+
+Michel Foucault (15.  fijna 1926 Poitiers—26. C¢ervna 1984 Pafiz) byl
+predstavitelem
+
+francouzské intelektualni avantgardy sedmdesatych let, profesor College de
+France, filozofapsycholog. Byl také  historik filozofie, pfedstavitel
+filozofického strukturalismu a postmoderni filozofie, historik a teoretik kultury.
+Jeho dilo se rozpada do nékolika obdobi, tradiéné je prijimano déleni na obdobi
+»fenomenologické", ,archeologické“, ,genealogické“ a ,etické".
+
+Narodil se roku 1926 ve mésté Poitiers jako Paul-Michel Foucault v rodiné
+chirurga. Po maturité si jeho otec pfal, aby se stal lékafem, ale Paula-Michela
+zajimal spiSe déjepis a literatura. Jiz v dobé studia na jezuitské Collége Saint-
+Stanislas byl zvlaStnim zakem, ale jeho odli$nost se plné projevila az na
+pafizské Ecole normale supérieure, kam odeSel roku 1945 kde nav&t&voval
+SkoIniho psychologa. Nékolikrat se  pokusil spachat sebevrazdu
+(byl homosexual a se svou orientaci nebyl zcela vyrovnany). Béhem studii byl
+politicky neorganizovany, ale v letech 1950 az 1953 byl ¢lenem komunistické
+strany Francie, ke které ho pfivedl jeho pfitel Louis Althusser. Pozdéji se z néj
+vSak stal vaSnivy antistalinista.
+
+Po dokonéeni studii vyucoval na univerzité v Lille jako asistent psychologie. V
+roce 1955 opustilFranciia  stravil Cast svého Zivota v Uppsale,
+VarSavé a Hamburku. Do Francie se vratil az v roce 1960 a dokonéil doktorat.
+Vyuéoval na univerzité v Clermont-Ferrand a po celou dobu jeho pusobeni na
+zdejsi pudé byla jeho oficialnim oborem psychologie. Od poloviny 60. let se
+Foucault angazoval i politicky.
+
+Pozdéji prednaSel také v USA, Japonsku, Braziliia Kanadé. Byl také
+dopisovatelem italského listu Corriere della Sera.
+
+Niklas Luhmann - zakladni pojmy
+
+   
+    
+
+   
+
+AUTOPOIETICKE KOMPLEXITA
+
+SYSTEMY
+
+TEORIE SYSTEMU
+
+     
+
+ 
+
+ 
+ 
+
+KOMUNIKACE
+SMYSL,
+
+ 
+
+KONTINGENCE
+
+funkciondlné-strukturdini teorie systémi
+&
+
+HosPoDARSTVi— VEDA — RODINA — POLITIKA — VZDELANi — NABOZENSTVi
+
+  
+
+  
+  
+ 
+
+ 
+ 
+  
+ 
+
+   
+
+  
+ 
+   
+
+ 
+
+ 
+  
+
+autopoietické systémy
+(z feckého autos = sam, poien = tvorit, délat)
+
+ 
+ 
+
+Teoretické pristupy:
+
+zakladni pojmy
+
+Gsocidini jednini > —_—_—_—_> => 0 struktura oprvky o
+funkce
+
+Lidé jednaji vidy v uréité socialni situaci!
+
+>> Konsenzus = zachovani socialniho
+systému
+
+Analyzovat sociologicky jakékoliv spoleéenstvi znamena rozpoznat konkrétni
+souvislosti mezi hodnotami, normami_ a lidskym jednanim.
+
+      
+   
+
+   
+
+VSechny procesy a vztahy v ramci spolecenského systému a jeho struktury maji
+tendenci udrzet spolecnost ve stavu rovnovahy a stability!
+
+Tato tendence ke stabilité -— pfirozeny sklon vyrovnavat ruSivé okamziky,
+pfekonavat krize za ucéelem udrzeni spole¢nosti je analogickou principu
+homeostazy.
+
+Ve spoleénosti pini tuto funkci tzv. mechanismy socialni kontroly a socialni
+regulace.
+
+5 znaku strukturniho funkcionalismu:
+
+1) Spoleénosti jako systémy navzdjem spjatych éasti.
+
+2) Spoleéenské systémy setrvavaji ve stavu dynamické rovnovahy.
+
+3) Vsocidinich systémech existuji napéti, odchylky od rovnovahy a
+integrace, disfunkce.
+
+4) Zména nastava postupné, formou prizpusobovani.
+
+5) Zdrojem socidlni integrace je prijeti jednotného vzorce hodnot.
+
+Parsonsovy pattern variables — vzorce proménnych
+
+I. Afektivita —- Afektivni neutralita
+
+Afektivita jednani je spojena s emocemi, bezprostfednosti, pocity.
+Afektivni neutralita, jednani fizené spise hodnoticimi soudy.
+
+il. Orientace na sebe — Orientace na kolektivitu
+
+Orientace na sebe — prosazeni individualnich pozadavku bez ohledu na zajem
+celku.
+
+Orientace na kolektivitu — podfizeni individualnich zajmu.
+
+Hl. Universalismus — Partikularismus
+
+Universalismus je orientaci na vSeobecné standardy.
+Partikularismus je orientaci specialni.
+
+IV. Vykon —- Askripce
+
+Podobnosti mezi ,socialnim agregatem“(spoleénosti) a biologickym
+organismem:
+
+a) oba se vyznacuji rustem
+
+b) rozmnozuji se a diferencuji se jejich Casti, roste sloZitost jejich stavby
+
+c) diferenciace struktury je provazena diferenciaci funkci
+
+d) vzajemné se podminujici a doplnhujici jejich Casti (délba prace)
+
+e) organismus a spoleénost se skladaji z bunék, organismus i spoleénost
+ziji nadindividualnim zivotem, jednotky individualnim
+
+f) maji zvlaStni systémy organt (vyzivovaci systém — zasobovaci systém,
+nervovy systém -— vladni systém, distribuéni system — _ tepny,
+komunikace)
+
+Rozdily: socialni vyvoj je nadorganicky
+
+a) organismus je symetricky, spolecénost asymetricka
+
+b) organismus_ tvofi kompaktni celek, spoleénost ne Individua jsou
+svobodné bytosti
+
+Cc) védomi je lokalizovano do malé Casti biologického
+
+agregatu, ve spolectnosti je rozptyleno po celém agregatu. Spoleénost
+existuje jen kuzitku svych élenu a_ nikoliv jeji Clenové k uzitku
+spoleénosti.
+
+Liberalismus: naroky statniho téla nejsou ni¢im, a nabyvaji platnosti jen potud,
+pokud pfedstavuji ztélesnéni naroku individul, z nichz se sklada.
+
+1.4 Karel Marx ( 1818—- 1883)
+
+Ekonon, filosof, sociolog. Uzce spolupracoval s Friedrichem Engelsem.
+Je povazovan za zakladatele historického a dialektického materialismu.
+
+Velka €ast jeho pojednani se tyka otazek ekonomickych, presto obsahuji
+mnozstvi podnétnych sociologickych postrehu.
+
+Vzdy se snazil spojovat ekonomické problémy  s pusobenim
+spolecenskych instituci.
+
+Vychazel z pojeti historie, které nazyval materialistickym.
+
+Za hlavni zdroje spolecenské zmény povazuje piredevsim
+ekonomické podminky
+
+= hlavni silou historického vyvoje jsou konflikty mezi tridami!
+
+( Durkheim za tyto zdroje povazuje mySlenky nebo hodnoty, k nimz se
+lidé hlasi. Max Weber klade velky duraz na kulturni pfedstavy a hodnoty a za
+dalSi zdroje spole¢enské zmény, krom ekonomickych, povazuje rozvoj védy a
+byrokracie)
+
+Kapitalismus ma byt nahrazen spoleénosti, vniz tfidy pfestanou
+existovat — nemél tim na mysli, Ze zanikne veSkera nerovnost mezi lidmi, ale Ze
+spolecéenské viastnictvi vyrobnich prostredku povede k nastoleni vétsi rovnosti.
+
+Vychodiska Marxova socialismu (situace ¢lovéka):
+
+= hlavni motivace lidi — touha po vétSim zisku, pohodli a zbytecénostech;
+
+= lidem zjevné vyhovuje, ze je jejich zivot v oblasti produkce i spotreby
+rizen a manipulovan statem, velkymi korporacemi a byrokracii;
+
+= témé se vytratila individualita, lidé jsou poddajnym ,lidskym zbozim“.
+
+fp
+
+{2
+
+{s*
+
+2. Cinnost lidi:
+
+logicka - objektivni stranka spolec. systému tj. jeho skute¢ny stav
+
+nelogicka-subjektivni stranka, tj. souhrn lidskych pfedstav o tomto stavu.
+
+Predstavy, jimiz se lidé ridi, se Casto podstatné lisi od skuteéného stavu.
+
+Vede to ktomu, Ze nedosahuji vyt€enych cill, jejich Cinnost je nelogicka.
+Psychické stavy, jez jsou nejsilnéjSimi stimuly socialni ¢innosti, nazyval Pareto
+rezidua. Lidé davaji zivelné pusobicim reziduum zdani logi¢énosti pomoci
+ruznych ,jazykovych reakci", ideologil, jez oznacil nazvem derivace.
+
+Souhrn
+Sociologie ve svém pocateénim obdobi definuje zakladni témata, ktera pati ke
+studiu spoleénosti. Sociologicky pohled je makrosocialni, tedy pfeviada zajem o
+popsani mechanismu, které drzi spole¢énost pohromadé. Uz v poéatcich
+sociologie se objevuje zajem o definovani poruch ve spoleénosti.
+
+Otazky
+
+1. Charakterizujte 3 stadia véd. Co se timto konceptem Comte snazi vyjadfit?
+2. Vyspecifikujte socialni fakta. Jak jim Ize rozumét v soucasné dobé?
+
+Literatura
+JANDOUREK, J. Uvod do sociologie. Praha: Portal, 2003.
+KELLER, J. Déjiny klasické sociologie. Praha: SLON, 2007.
+KELLER, J. Uvod do filozofie, sociologie a psychologie. Liberec: Dialog, 2008.
+KELLER, J. Uvod do sociologie. Praha SLON, 2009.
+MUCHA, I. Sociologie zakladni texty. Pizen: Vydavatelstvi a nakladatelstvi Ales
+Cenék, 2009.
+PETRUSEK, M. Zaklady sociologie. Praha:AVS, 2009.
+
+Symbolicky interakcionismus.
+
+1. Lidé jednaji na zakladé vyznami, které prikladaji vécem, jez je obklopuji
+
+2. Tyto vyznamy nejsou viastnosti véci samotnych, ale produktem socialni
+interakce
+
+3. Vyznamy nejsou stabilni, ale mohou byt neustale pozméfhovany a
+redefinovany v prubéhu novych interakci
+
+,socialni Ja“ — SELF, hrani roli, gesta, interakce je symbolicka a kazdy se na
+ni podili
+
+Husserlova fenomenologie problematizuje vyznam_ objektivni metody
+poznani. Uvadi do kontextu uvah o védé a poznani také subjekt, ego. Znalosti o
+svété jsou vysledkem uvah o védé a poznani, ale také spontanni, rutinni
+zkuSenosti v zitém svété — Lebenswelt. Husserlv navrat k vécem, tedy k tomu
+Co trva, co se skryva za ideacemi, tedy konstrukcemi rozumu.
+
+Podstatnym rysem lidského poznani:
+e je, ze je intencionalni, zaméfené na vyznamné souvislosti
+e je, Ze je intersubjektivni, zijeme ve svété interpretovanych
+vyznamu intersubjektivné sdilenych.
+
+3.4 DalSi vyznamné sméry soudobé sociologie
+
+« Poststrukturalismus
+
+Predstavitelé:
+Michel Foucault (1926 - 1984), Roland Barthes (1915 — 1980),
+Jean Baudrillard (1929)
+
+Smér vychazejici ze strukturalismu, jehoz hlavnim znakem je, ze struktura
+urcuje specifické znaky prvku. V socialni roviné to znamena, Ze jedinec je uréen
+strukturou vztahu, které pfedchazeji jeho formovani. Vyznamné postaveni v této
+teorii Zaujima pojem kultura, ktera:
+
+° se projevuje v praktickych Cinnostech a normach
+
+° se formuje a fixuje predevSim v jazyce a prosttednictvim jazyka
+(duchovni kultura)
+
+° je v duchovni oblasti znakové symbolicka
+
+° ma zaklad v typu vztahu, ktery vyjadfuje strukturu jazyka, pravidel
+pribuzenstvi, uméni, védy i nabozenstvi
+
+° dle Levi-Strausse je zalozena na principialni totoZnosti veSkerého
+lidského mySleni
+
+Poststrukturalismus rezignuje na mySlenku jedné invariatni struktury jako
+zakladniho vzorce kultury, pripoustéji pluralitu struktur:
+
+- vSe je v neustalém pohybu, vyvoji a zménach
+
+- jedinci i organizované skupiny jsou vystaveni systémovému tlaku a tak
+nezbyva, nez rezignovat nebo se postavit na odpor
+
+- hleda nové principy racionality tim, Ze se zajima o diskontinuitu, o
+parcialni nahodné jevy
+
+- zavadi pojem diskurz
+
+* Postmodernismus
+Predstavitelé:
+Jean Francois Lyotard (1924-1998), Jacques Derrida (1930)
+
+Marxovy cile:
+o duchovni emancipace Clovéka;
+© osvobozeni z pout ekonomické preduréenosti;
+o obnoveni lidské celistvosti;
+o vytvoreni predpokladi jednoty a harmonie sdruhymi lidmi a
+prirodou;
+o  plné uskuteénéni individualismu.
+
+Ve své filosofii sestupuje znebe na zem: Reakce na Hegela (kde
+empirické, exoterni déjiny kraci za déjinami spekulativnimi, esoternimi).
+»Zpusob jak lidé produkuji prostfedky k svému Zivotu, zavisi pfedevSim na tom,
+jaké jsou vubec Zivotni prostfedky, které tu byly pred nimi a které musi
+reprodukovat. ...Cim individua jsou, zavisi na materidInich podminkach
+urCujicich jejich produkci.“
+
+Dale tvrdi, ze Zpusob, jimz Clovék vytvari své vyrobky, urcuje jeho
+my$Sleni a jeho touhy, nikoli Ze hlavni touhou Clovéka je dosahnout maximalniho
+materialniho uspokojeni.
+
+Socialismus je spolecnosti, vniz materialni zajem uz nema hlavni
+vyznam.
+
+Byti lidi neni uréovano jejich védomim, nybrz naopak, jejich védomi je
+ur€ovano jejich spole¢enskym bytim.
+
+Kvuli zaslepenosti svého mySleni si lidé neuvédomuji své skutecéné
+potreby a idealy, zakotvené v nich samych.
+
+Komunismus chape jako pozitivni pfekonani soukromého vlastnictvi
+jakozto lidského sebeodcizeni.
+
+Teoretické pristupy
+
+»Byti lidi neni uréovano jejich védomim, ale naopak jejich védomi je
+uréovdno jejich politickym bytim.“
+
+Tato Marxova teze charakterizuje jeho novatorsky pfistup ke
+spoletenskym problémum. Ktomu bychom mohli pfidat i dalSi vyrok:
+»Filosofové doposud svét jenom vykladali, jde o to jej zménit!“
+
+Marx reaguje na bédné podminky obyéejnych lidi ve své dobé. Ve svém
+nejvyznamnéjsim_ dile Kapital analyzuje kapitalisticky zpUsob vyroby. Zde
+prichazi s objevem nadhodnoty.
+
+Kapitalisticky zpUsob vyroby = Vyko/istovani Clovéka Clovékem:
+
+=> Odcizena lidska prace ——> _systém dvou tiid ( burzZoazie a prol.)
+
+= > Rozpory kapitalismu —» Tiidniboj —» —Revoluce
+=> Pad kapitalismu —-,»  Diktatura proletariatu
+c=» Budovani beztiidni spoleénosti ———> Komunismus
+
+Lidé jsou tvurci vlastnich déjin, ale nikoli néjak libovoliné, ale za okolnosti,
+které jsou predem dané (faze lidského vyvoje).
+
+1.2 Auguste Comte (1798 — 1857)
+
+»Poznat, predvidat, jednat.“ (takto Comte definoval sobé a 19. stol. smysl
+sociologie)
+
+* Pochazi z katolické monarchistické rodiny. Od 14 let studium na
+pafizské polytechnice, kde vstfebava pokrokové a liberalni nazory (pohlizZi
+optimisticky na jednotlivce, duvéruje jeho vitalité, sympatizuje s jeho
+podnikavosti). Na spoleénost pohlizi ponékud s neduvérou, nebot’ se obava,
+aby jednotlivce v jeho iniciativé prilis nesvazovala. Pod vlivem mySlenek Saint-
+Simonovych brzy mySlenky Cistého liberalismu opousti, sam se pfedevsim stavi
+proti ekonomickému liberalismu.
+
++ Je autorem terminu ,sociologie“, ktery pouziva od roku 1839 ve 4. dilu
+svého Sestisvazkového dila Cours de Philosophie Positive, které psal dvanact
+let. Jednim z duvodu volby nového nazvu bylo, Ze doposud pouZzivany pojem
+socialni fyzika byl od roku 1835 pouzivan pro socialni statistiku.
+
+Puvodni pfirodovédné vzdélani jej (také diky vlivu osvicenstvi a
+mySlenek pokroku) vede k pozadavku pouzivani pfirodovédnych metod pfi
+zkoumani spoleénosti.
+
+* Termin pozitivismus je zkracenou verzi vyrazu ,,pozitivni politika“, ktery
+Comte uziva v roce 1842. Snazi se jim specifikovat své viastni uceni, jez
+vychazi z analyzy podminek vyvoje lidského poznani a ve kterém oznatuje za
+prijatelné pouze védecké neboli pozitivni pravdy a naopak vylucuje jakékoliv
+zkoumani 0 podstaté véci. (Déjiny sociologie, str. 21)
+
+Pozitivismum odkazuje na smyslové poznani, na némz je zalozena
+védeckost zkoumani.
+
+Sociolog pozoruje socialni jevy, nepatra po jejich priciné, ale hleda jejich
+vzajemné souvislosti, a tak poznava spoleénost. Je védec, protoze jeho zpusob
+mySleni pfekonal mySleni teologické a nezbytné abstraktni mySleni metafyzické
+a je tak mySlenim tzv. tfetiho stadia. Toto nejvySsi stadium mySleni, védecké, je
+pozitivni, nebot prijima jevy tak, jak jsou, a nespekuluje o jejich podstaté.
+
+* 1847 prichazi s mySlenkou vSelidského nabozenstvi
+
++ Jako vSichni prvni sociologové byl evolucionista - véfil, Ze spolecénost
+tihne spontanné k pfirozenému pofadku, stale o néj usiluje, priblizuje se k
+nému, ale nikdy ho, protoze je pfiliS slozita, nedosahne. Vyvoj je neustalé
+zdokonalovani, opravovani soucasného pofddku. Socialni organismus je
+analogicky k biologickému — zakladnim ¢lankem rodina = bufhka.
+
+Teoretické pristupy
+
+Comte se ve své védecké praci zabyva, mj., vyvojem lidské spoleénosti a
+,socialnim fadem. V prvnim tématu fesi otazku na zakladé Geho dochazi
+k postupnému a nepfetrzitému vyvoji lidské spoleénosti. Dochazi k nazoru, ze
+»motorem*“ pokroku lidstva je poznani. Na zakladé toho definuje:
+
+“& Kliéové otazky, na které zejména se koncentruje dnesni sociologie:
+
+{2
+
+a) jakym zpusobem, kdy a kde se s cizinci ve spoleénosti setkavame
+
+b) jak cizince vnimaji ostatni lidé, ti, kteff jsou ,doma*
+
+c)jaké charakteristické rysy a zkuSenosti Ize povazovat za spole¢éné vSem
+cizincum a jak cizinec vnima sam sebe a své postaveni
+
+6 zakladnich rysu, charakteristik cizince:
+
+. Je tim, kdo nikam nepatri — neni spojen s Uzemim, stale zustava hostem.
+
+Baumantv poutnik a tulak.
+
+. Je tim, kdo nema zadnou minulost- ztraci vazbu s obdobim a udalostmi pred
+
+svym odchodem do cizi zemé. V nové zemi ztraci pfiruéni zasobu védéni.
+Jenom ty zpusoby Zzivota, jakym ili nasi otcové a praotcové, se mohou stat
+skuteénou souéasti naSeho Zivotniho stylu. Hroby a vzpominky nemohou byt
+prestéhovany ani dobyty (Schulz). Tradice vSak éasto spoutava= proto cizinec
+jako nékdo, kdo je paradoxné svobodnéjsi. Cizinec je odjinud, zradil svou viast,
+rodinu (pocity, prirovnat k rozvodu)
+
+. Ten, kdo nerozumi-schopnost automatického porozuméni socialnimu svétu.
+
+Kazda spoleénost ma své viastni instituce-zpusoby, jak se véci délaji . Zadna
+socialni situace v nové spolecnosti pro néj neni samozfejma, o kazdé musi
+premySlet. Mezi dvéma jazyky je viasti cizince ticho.
+
+. Ten, kdo je podrizeny-vztah kodlisnym lidem je neroziluéné spjat s
+
+presvédéenim o ménécennosti a z ni vyplyvajici podrizenosti tohoto druhého,
+status, starousedlici. Budovani své identity a odporu k nékomu dalSimu (Italové
+vs. Spanélé apod.)
+
+. Ten, kdo se téSi vyhodam objektivity a svobody- vidi véci, kterych si bézny
+
+élovék nevSimne, prestavaji platit sexualni tabu
+
+. Provadi specificky druh prace. Cizinec vidi vpraci skute¢nou hodnotu.
+
+Generace jejich déti se postupné od této nutnosti odpoutava. Status.
+
+V souéasnosti previadaji dvé zakladni polohy:
+4 prvni je zalozena na  zduraznéni odli$Snosti a vede
+k hierarchizovani
+“ druha sice uznava rovnost, ale vede ke zestejnéni — vyzaduje se
+uplna asimilace
+
+Nové pohledy volaji po pristupu, ktery by uznaval rovnost a pritom nepotlaéoval
+ruznost.
+
+Tam, kde spoleéné Ziji komunity ruznych tradic, nabozenstvi a kultur neplati jen
+jeden vzorec norem a hodnot.
+
+Tradiéni evropocentricky pristup jiz neni udrzitelny.
+
+Vkazdém pfipadé uznat jejich prévo na odlisnost, kterad v podstaté
+vypovida i o odliSnosti nas samych.
+
+Kontrolni otazky
+
+Charakterizujte pojem globalizace.
+
+Které jsou charakteristické znaky globalizované spoleénosti?
+Uvedite zasadni faktory vedouci ke globalizaci.
+
+V éem se projevuje ambivalentnost globalizace?
+
+Naleznéte ve svém socialnim svété aspekty globalizace.?
+
+akwWN—
+
+seberegulujiciho se systému. Zcela zasadni vyznam méla preména prace a
+pudy ve zbozi.
+
+V tomto obdobi registrujeme vznik narodnich trhu v dusledku mohutné
+intervence statni moci, ktera spolecnosti vnutila trzni organizaci z duvodu
+mocenskych.
+
+Trh se stal regulatorem ekonomiky, coz poznamenalo — strukturu
+spoleénosti.
+
+V roviné mocenské praxe dochazi k nahrazeni stavovského Clenéni rozdélenim
+na tfidy (viz. stratifikaéni systémy). Tato zména s sebou pfinesla emancipaci
+trhu.
+
+5.2.1 Ulrich Beck — interpretace moderni spoleénosti
+
+Ulrich Beck (1944) je vyznamnym souéasnym némeckym sociologem. Ve
+své praci se zabyva dusledky modernizace, zvlasté se zaméfuje na proces
+globalizace a individualizace. Jak je patrno znazvu jeho nejznaméjsi knihy
+Rizikova spoleénost zabyva se také riziky souéasného svéta. Beck upozornhuje
+na rizika moderni spoleénosti v nékolika rovinach. My se zaméfime predevsim
+na individualni dusledky modernizace.
+
+Mottem pro Beckovsky pojimanou individualizaci muze byt vyrok jiného,
+amerického sociologa Anthony Giddense: ...Napfiklad vétsina prav a vyhod
+socialniho statu je urCena spise jednotlivcum nez rodinam. V mnoha pripadech
+predpokladaji zaméstnanost. Zaméstnanost zase zahrnuje vzdélavani a oboji
+dohromady mobilitu. Lidé jsou pak témito pozadavky pobizeni chovat se jako
+individuality: planovat a utvaret se jako individuality. (A. Giddens: Treti cesta)
+
+Dusledky a rizika premény tradiéni spoleénosti na moderni
+
+Objevuje se problém odosobnéni, ktery se projevuje tak, ze spolecénost
+usiluje 0 Uspéch, vySSi efektivitu, rust profitu, nerespektovani zajmu ostatnich
+lidi (formalni racionalita).
+
+Konec tradiéni rodiny — prioritou neni péée o déti, ale ekonomicka aktivita
+jedincu. V rodiné dochazi k oslabovani skuteéné svobodnych rozhodnuti pod
+tlakem vnéjsich faktort (trh prace aj.) — rozmach Zivotniho stylu tzv. singles:
+lidé bez rodinnych zavazku, ktefi mohou Ginit vice svobodnych rozhodnuti.
+
+Pro moderni industrialni spoleénost bylo pravé mésto symbolem pokroku
+a pro masu venkovské populace byl pfesun do mésta vyrazem socialniho
+vzestupu. Ve 2. pol. 20. st. se vSak exodus do mést ve vyspélych zemich
+zastavuje Ci zpomaluje, nebot’ venkov se jako lokalita k sidleni stava
+atraktivnéjsi pro ty, kteri si to mohou dovolit.
+
+Zaznamenavame_ celosvétové  silici proud konfliktsu a neraéniho
+nedorozuméni. Moderni vyvoj pfinasi nebezpeéné vysokou miru disciplinizace a
+manipulace s lidmi a jejich potfebami. Osvobozeni individuf z tradiénich pout
+znamena jejich vystaveni statni moci.
+
+Riziko anomie neni zazehnano o nic vice nez riziko vzniku novych forem
+autoritativnich rezimu, jez je s rizikem anomie Uzce spojeno.
+
+V procesu modernizace byl spatrfovan nastroj, jenz spolehlivé odstranuje
+nebezpeci, jez hrozila spoleénosti tradiéni (hladomory, epidemie.,...).
+
+Takovéto ucinnosti nastroju byla vénovana takova pozornost, jiz se tolik
+nedostavalo rizikum novym, jez plodi samotna moderni spolecénost svym
+fungovanim. Spoleénost vedena vidinou stalého zvySovani svého vykonu
+(ekonomického rustu) aneb Ziti si v blahobytu nadmémé zatéZuje své prostiedi
+
+Je to hodnota, kterou objekty ziskali tim, Ze si jich jedinci néjakym
+zpusobem a do néjaké miry povazuji. Ekonomické zhodnoceni je procesem
+prisouzeni ekonomické hodnoty symbolickému sdéleni, ¢imz je umozZnéno
+sménovani sdéleni na trhu, sdéleni se tedy stava komoditou.
+
+3. Masovaé komunikace zavadi_ strukturovany pfedél mezi  produkci
+symbolickych sdéleni a jejich prijmem. Komodifikované symbolické sdéleni
+yse vyrabi vjednom kontextu ¢i souboru kontextu a je pirenaseno
+k priiemcum umisténych ve vzdalenych, odlisnych a_ rozmanitych
+kontextech* (Thompson, 2004, s. 29). Zarovefi masova komunikace
+predstavuje jednosmérny tok sdéleni a kontext produkce neni soucéasné
+kontextem recepce ani naopak. To vede k nedostateé¢né primé a prubézné
+zpétné vazbé pro vyrobce sdéleni a zaroven k typické neurCitosti procesu
+produkce a _ vysilani. Na _ strané pfijemce tento rys vede_ k jeho
+nerovnomérnému postaveni.
+
+4. Masova komunikace rozsifuje dostupnost symbolickych sdéleni v ase a
+prostoru. Symbolicka sdéleni jsou pfijimana jedinci Casto i znaéné
+vzdalenymi od vyrobcu sdéleni ve smyslu prostoru i €asu.
+
+5. Masova komunikace zahrnuje obihani symbolickych sdéleni ve vefejnosti.
+Produkty masové komunikace jsou pfistupné komukoli, kdo ma pfisluSna
+technicka zafizeni, schopnosti ¢i zdroje, k tomu, aby si je mohl opattit. Tim,
+ze symbolické sdéleni je pristupno nespocetnému mnozstvi prijemcu je
+obsah sdéleni vniman jako vefejny.
+
+7.3. Masova kultura
+Masova kultura je velmi vyznamnym_historickym jevem,  ktery
+
+reprezentuje kulturni typ vytvofeny urcitou epochou a je jednim z nastroju: nové
+socialni integrace. Jiz pri formovani masové kultury se zaéala objevovat kriticka
+hodnoceni. Masova kultura byva Casto ztotozhovana s kulturou nejnizsi urovné,
+vulgarni kulturou.
+
+Jiz v zakladu zde stoji problém s jeji nezaujatou definici. Pri naprosté
+volnosti muzZeme vymezit masovou kulturu jako komplex velmi Siroce
+pouzitelnych norem a vzorcu chovani. Zde vSak nastava situace, kdy jakykoliv
+zvyk ¢i obyéej, ktery je rozSifen mezi statisici ¢i miliony lidi, by se stal okamzité
+soucéasti masové kultury. Francouzsky sociolog G. Friedmann masovou kulturu
+
+2. Mobilita (zmény) tykajici se kazdého a vSeho, ne kazdy z nich
+vSak ma prospéch (vitézové /mobilni globalové/ a porazeni
+/zakofenéni lokalové/.
+Faktory ovlivnujici vznik a vyvoj globalizace:
+
+Na vySe zminéné preméné vedouci celosvétové zavislosti, kdy se svét
+stava ,jedinou vyrobni halou a jedinym supermarketem“ nebo ,jedinou velkou
+burzou“ ¢i ,jedinym velkym kinem promitajicim jediny unifikovany film“, se
+predevSim podilely nasledujici tri faktory:
+
+I. Volny a liberalizovany obchod (zpusob jak se vyvazat z lokality
+— penize)
+
+Il. Snadna a dostupna komunikace ,kdo neni na Internetu, ten
+jakoby ani nebyl“
+
+ll. Snadna a levna doprava
+
+Giddens shrnuje rozporuplnost globalizace velmi trefné:
+
+»Je to nevyhnutelné stadium vyvoje spolecénosti, je nemoudré se ji branit. Lze ji
+interpretovat jako sebepohanéjici, setrvacény a tézce kontrolovatelny socialni
+proces, ale ne jako prirodni zakon — je dilem lidi.
+
+Jeji ,novost“ zapricifhiuje minimum zkusenosti s problémy, které p/inasi,
+coz ssebou nese nezbytnost nového zpusobu uvazovani o ni i o nas
+samotnych.
+
+Neni spravné ztotoznovat ji pouze s westernizaci ¢i amerikanizaci
+planety. Je prirozenym dusledkem dynamiky moderni spoleénosti zalozené na
+idejich tr2niho hospodafstvi a volného obchodu.“
+
+6.2 Sociologie cizince
+
+Jednim zdusledku globalizace je vysoka mira migrace. Nejsilnéjsimi
+migraénimi proudy jsou ekonomicti migranti. Tedy skupiny lidi, ktefi odchazeji
+ze své zemé pro nedostatek pracovnich pfilezitosti a socialné a hospodaisky
+slabé zaji$téného Zivota ve své zemi. Cizinec je Clovék se zvlaStnim socialnim i
+psychologickym statusem.
+
+Svét je vniman jako multikulturni, v jednotlivych zemich privykame multietnicité.
+Oboji spojujeme s pojmy ,jiné“, ,jinakost’, ,cizost“
+
+Bauman - v modernim velkomésté Ziji cizinci vsude okolo nas; soucasny svét
+je svétem ,univerzalni cizosti* — novy typ cizincu, vétSinu lidi, s nimiz sdilime
+prostor nezname, nemame s nimi Zadné vztahy
+
+Cizinec ztéleshuje ,jinakost“ ve spole¢enskych vztazich, at pro svoji narodnost,
+rasu Ci Zivotni styl
+
+Simmel: Usazeni, tuzemci, ti, kteri nékam patri, se nelisi od vyobcovanych a
+ztracenych Gi od bezdomovcu, jenom o tom zatim nevédi.
+
+Schitz: vychazi zpojeti Husserlova ,zivotniho svéta“ = svét naégi
+kazdodennosti. Je pro nas duvérné znamy (styk se svymi bliznimi). Pro
+orientaci slouzi ,pfiruéni zasoba védéni“ — obsahuje poznatky zdédéné
+z minulosti i poznatky soucasné (ziskané socializaci, jazykem, ucenim...)
+
+Pro ¢lovéka, ktery opousti svou kulturu, ztraci priruéni zasoba védéni svoji
+platnost, prestavaji platit i vsechny navody pro pochopeni a orientaci v zivotnim
+svété
+
+Cizinec nové kultufe nerozumi a ani jemu neni rozuméno.
+
+Systém — synonymum uspofadanosti, organizovanosti nebo i slozitosti. Cokoli
+slozitého nebo organizovaného nemusi nutné znamenat systém.
+
+Lampi, Judith (2000) uvadi pro pfikladnost opozici ,systém — hromada*. Systém
+= vzajemné propojené ¢Casti fungujici jako celek. Systém se zméni, pokud
+odebereme néjakou z jeho €asti a pridame jiné. Kdyby byl systém rozdélen v
+pulce, nevznikly by dva malé systémy, ale systém, ktery pravdépodobné
+nebude fungovat. Chovani systému zavisi na celkové struktufe. Pokud je
+struktura zménéna, je zarovef zménéno i chovani. Hromada pfedstavuje
+soubor éasti — rozdéleni na dvé éasti vzniknou dvé hromady. Casti hromady
+nejsou propojené a mohou fungovat oddélené.
+
+Bures uvadi, ze systémy jsou vSude kolem nas a je mozné je identifikovat ve
+vSech jevech. Kde identifikovat systém a z jakého duvodu? Systémy jsou
+povazovany za abstrakce, které si lidé vytvareji v procesu poznani, a protoze
+élovék neni schopen zkoumat objektivni realitu v celé své slozitosti, identifikuje
+systém. Systém Ize identifikovat na kazdém objektu, a ve skute¢nosti Ize na
+kazdém objektu definovat obrovské mnozstvi systému. Je proto nutné rozlisit
+objekt jako systém, tzn. nekoneéné slozity systém, a systém definovany na
+objektu — tedy zjednoduSeni vzniklé abstrahovanim nebo opomenutim
+nepodstatnych prvku a vazeb.
+
+Struktura systému je tvofena prvky a vazbami. Pro analyzu systému je nutné
+uréit, co je jeho prvkem. Prvek je Cast systému, ktera na potiebné urovni tvofi
+nedélitelny celek, jehoz strukturu nechceme nebo nemuzeme rozliSsit. Pri popisu
+systému nehraje roli urcit nejmensi mozny prvek, naopak Zadouci je ur¢it
+zakladni prvek, ktery odpovida cili zkoumani. Pfi interpretaci malifského dila by
+bylo nezadouci vyélenit postavu, dale jeji hlavu a poté oko; na zakladé analyzy
+oka svatého Dominika nelze interpretovat obraz RUZencova slavnost Albrechta
+Direra. Struktura systému nefika nic o viastnostech prvku a vazeb systému, ani
+o viastnostech, chovani a funkcich celého systému. Struktura systému vyjadfuje
+pouze jeho strukturovanost, tj. uspofadani a vzajemné vztahy mezi prvky
+systému.
+
+Funkce je definovana jako vyjadfeni vystupu, které vedou k dosazeni urcitého
+cile systému. Systém muZe vytvaret stejny vystup ruznym zpusobem. Pokud
+systémovy pfistup upfednosthuje strukturu, oznacuje se jako strukturalismus.
+Pfistupy, které zohledfuji pfedevSim funkci, jsou nazyvany funkcionalistickymi
+pristupy.
+
+9.1.2 Rozdily mezi systémy
+
+Rozdily mezi systémy diferencujeme na zakladé nékolika parametru: systemy
+statické a dynamické, systémy deterministické a stochastické (nahodné),
+systémy uzavfené a oteviené a dale komplikované systémy.
+
+Dynamické: dokazi se sami 0 sobé pfizpusobit ruznym podminkam tim, Ze pro
+kazdou funkci vytvareji optimalni strukturu a pro kazdou strukturu optimalni
+funkci, €imz vznika moznost modifikaci struktury a zmén v hierarchii v Case a
+prostoru. Mohou byt deterministické nebo stochastické.
+
+Statické: se v Case a prostoru neméni. Nelze pouzit dynamicky pfistup na
+statické systémy a naopak.
+
+Konvence, zisk, strojové mechanické fungovani
+
+1.5 Georg Simmel (1858 — 1918)
+
+Narozen v Berliné, kde také stravil temé? cely svij Zivot. Studoval historii,
+psychologii, historii uméni, habilitaéni praci vénoval Kantovi a jeho prvni i
+posledni dilo bylo filosofické. Jiz v dobé pred 1. svétovou valkou je povazovan
+za vyznamnou osobnost nejen v Némecku (Francie, USA). Snadno a s
+prehledem se_ vyjadfuje o  nejrozmanitéjsich tématech na _ pomezi
+konstituovanych védnich obort, coz mu umozfuje jeho obSirné vzdélani.
+
+Je zakladatelem formalni sociologie.
+
+Cilem sociologie se ma stat spi$e popis forem socializace ¢i socialni
+organizace nez jejich obsahu.
+
+Socialni atom: pojem, ktery vytvofil pro systém socio emocionalnich
+vztahu, které si individuum vytvaii k jinym a oni k nému.
+
+Stava se ,duchovnim otcem“ moderni teorie konfliktu. Pro vyrazny
+esejisticky styl vénujici se i drobnym detailum v socialnim zivoté spoleénosti je
+piné pfifazovan k postmodernimu proudu mySleni. Konflikt mezi skupinami
+spojuje jednotlivce uvnit? téchto skupin, ustavuje skupinové hranice a upevnuje
+skupinové sebevédomi. Védomi spoleéného nepfitele nas spoji ve skupinu lépe
+nez pozitivni program.
+
+1.6 Vilfredo Pareto (1848 — 1923)
+
+italské sociology.
+
+Vystudoval inzenyrstvi, zaméstnan u Zeleznic. Po Ctyficitce se vénuje
+politické ekonomii, kterou uéi i v Lausanne, kde je vedoucim katedry politické
+ekonomie.
+
+Sociologii se vénuje az v pokrocilém véku svého Zivota. Snazi se
+vybudovat védeckou sociologii na zakladé pozorovani faktt — diskreditovano
+priklonem k mussoliniovskému faSismu.
+
+Sociologie ma byt védou zabyvajici se jednanim, které se nefidi logikou
+a kde nejsou sledované cile jasné propojeny s urcitymi prostfedky (jako napf.
+ekonomie)
+
+Teoretické pristupy
+
+Paretovska socialni fyzika:
+
+Spoleénost neni ani stejnoroda ani staticka — jak jednotlivci, tak socialni
+skupiny, které tvofi jeji strukturu, jsou ruzni, a to do té miry, az jsou Casto
+protikladni. Ve spoleénosti existuji elity (tj. vymezené skupiny osob, které
+Zaujimaji konkrétni mocenska postaveni ...)
+
+1. Spoleéenské elity-socialni heterogenita- cirkulace elit :
+
+Elitu tvofi ti, ktefi jsou schopni se do ni dostat a poté se v ni udrzet. Je to
+jedno, jaci jsou a jaké prostfedky pro ziskavani a udrzeni moci pouZivaji. Je to
+mimo eticka hodnoceni. Spoleénost neni homogenni, individua jsou fyzicky,
+moralné a intelektualné rozdilna. D&jiny spoleénosti jsou déjinami boje o moc
+mezi oviadanymi a ovladajicimi. Tento boj zajiStuje neustalou obménu, kolobéh
+elit, a tak se struktura spoleénosti neustale proménuje.
+
+Dokazal, ze socialni jevy jsou cyklické, ze moc je nerovnomérné
+rozdélena ve prospéch elit.
+
+%
+De
+{1
+
+{
+
+y
+
+A
+
+XV
+
+3 Vyznamné sméry soudobé sociologie
+
+Cile
+Predstavit zdroje soucéasné sociologie. Poukazat na zmény paradigmat. | na
+fakte, Ze sociologie je védou multiparadigmatickou.
+
+Pojmy
+Paradigma, strukturni funkcionalismus, strukturalismus, konsenzualni teorie,
+interpretativni pfistup, sociolingvistika
+
+3.1 Teorie konsenzudlni
+
+Predstavitelé:
+
+Talcott Parsons (1902-1979), Robert King Merton (1910-2003)
+
+Nejtypictéjsim reprezentantem konsensualini teorie na pudé sociologie je
+strukturalni funkcionalismus.
+
+Zakladni vychodiska a znaky
+
+*V zakladu socialniho fadu stoji nepsana umluva, podle niz se lidé vice ¢i
+méné védomé zavazuji, Ze budou dodrzovat pravidla, umoznhujici jim vzajemné
+souziti.
+
+*Protoze jsou odkazani jeden na druhého, snazi se maximalizovat
+vyhody a minimalizovat vzajemné tfeci plochy snizujici Uéinnost kooperace,
+
+*Socialni zména jako dusledek postupného p/izpusobovani systému na
+ménici se potfeby ¢i vnéjsi okolnosti.
+
+*Socialni fad je ve spoleénosti zaji8tén na zakladé minimalniho souhlasu,
+konsensu ohledné zakladnich hodnot.
+
+*Sociologie je studiem téchto mechanismu a jejich pfipadnych poruch.
+
+Parsons: Inspira¢nim zdrojem uziti pojmu funkce a struktura systému v socialni
+antropologii (Brown, Malinowski).
+
+Centrem zajmu zkoumani:
+
+a) vzajemné zavislosti Casti systému na celku,
+
+b) vyznam vnitfni rovnovahy pro fungovani socialniho organismu
+
+c) idea harmonické seberegulace jako cilového stavu chovani systému.
+Centralni ulohu v kazdé spoleénosti hraji hodnoty, které jsou sdileny_jejimi
+Cleny a které orientuji jejich jednani s potfebami systému.
+
+Protoze do centra Parsonsovy teorie byla umisténa premisa stability
+systému, jde o to nalézt podminky, které v tomto sméru poskytuji orientaci
+jednajicim osobam. Tato jednani mohou byt popsana pomoci 3 aspektu:
+
+1. Stavem situace
+2. Potfebami jednajiciho
+
++ Univerzita Hradec Kralové
+Pedagogicka fakulta
+
+  
+ 
+
+UVOD DO SOCIOLOGIE
+
+studijni opora k predmétu
+pro studenty kombinované formy studia
+oboru Socialni patologie a prevence
+
+Doporuceny semestr: prvni
+Prerekvizita: neni
+Navazujici predmét: neni
+Kreditova dotace: 4
+Ukonéeni predmétu: zkouska
+
+Garant predmétu: prof. PhDr. Blahoslav Kraus, CSc.
+
+ei
+
+{or
+
+6 Globalizace jako multifaktorialni proces
+
+Cile
+
+V této kapitole je vénovana pozornost celosvétovému procesu, ktery je
+spojen s modernizaénimi tendencemi, plné se rozvijejicimi po druhé svétove
+valce. Cilem je upozornit na faktory globalizace, zejména ve vztahu
+k multikulturnim pfenostm Zivotniho stylu.
+
+Casova naroénost
+2 hodiny
+
+6.1 Charakteristiky globalizace
+
+Motto:
+»Globalizace je jako buh Janus — buh s jednim télem a dvéma tvaremi*
+
+Globalizace je jevem ambivalentnim, (vnitiné rozporupiInym a mnohoznaénym).
+Proé? ProtozZe, jako mnohé v lidské spoleénosti, prinasi sou¢asné uzitek a
+souéasné i téZkosti a problémy:
+
++Pozitivni na globalizaci je rust objemu obchodovaného zbozi, rust Zivotni
+urovné, rozvoj informaénich a komunikaénich technologii, vySSi rozsah sluzeb,
+uspokojeni potfeb zakazniku.
+
+- Negativem je pfetrvavajici chudoba 1/3 — 2/3 lidstva, obecny pokles duvéry v
+praktikovanou demokracii. Ztrata narodnich kulturnich identit, omezeni statni
+(zejm. ekonomické) suverenity, nekontrolovany vzestup moci nadnarodnich
+spolecénosti, ekologicka devastace Zemé.
+
+Mozna vymezeni globalizace:
+
+Pojem ,globalizace“, pod kterym je mozno chapat Cinnost, proces nebo
+jednani, kterym se cosi stava celosvétovym. Zaéal od 70. let dvacatého stoleti.
+
+OECD ji definuje jako proces, ktery zvySuje vzajemnou zavislost trhi a
+vyroby v ruznych zemich diky dynamice obchodu se zbozim a sluzbami,
+technologii a mobility kapitalu
+
+P. Dicken ji definuje jako proces internalizace, turbulence, tékavosti a
+zranitelnosti ve svété rostouci komplexity a vzajemnych spojeni.
+
+Globalizace vyjadfuje vzrustajici kompresi zdanlivé nestlacitelného svéta,
+zmensovani vzdalenosti a zkracovani €asu.
+
+OvlivAuje rozvoj naduzemnich vztaht mezi lidmi, diky kterému jako by
+fyzikalni zemépis pomalu ztracel smysl.
+
+Kategoricky imperativ globality zni: Cokoli Ginis, ¢ifi s ohledem na
+potreby celého svéta.
+
+Zabyva se moralkou a nabozenstvim ve spoleénosti. V jeho sociologickém
+pojeti je nabozenstvi sjednocenym systémem vér a praktik vztahujicich se
+k tomu, co je posvatné.
+
+1.4 Herbert Spencer (1820 -— 1903)
+
+Spolu s Comtem byva povazovan za spoluzakladatele sociologie. Jako jeden
+zprvnich polozil zaklady védecké sociologie, discipliny, jiz vybavil nastroji
+potfebnymi pro vyzkum (epistemiologie, vykladovy model). Pochazi ze stiedni
+Anglie. Byl vzdélavan svym otcem a pozdéji strycem, ktery ho pfipravoval pro
+univerzitni kariéru. V sedmnacti letech odeSel do Londyna, pracoval u zeleznic
+a stal se civilnim inzenyrem. Poté pfebiha k novinariné. Ve svych filosofickych
+uvahach se odklani od metafyziky a prohlaSuje, Ze veSkeré lidské a kulturni jevy
+podléhaji pozorovani, zkuSenosti a pristupu kauzalniho typu. Je velice sectély
+— slouéenim poznatku ekonoma A. Smithe a pfirodovédce J.B. Lamarcka
+vypracoval evolucionistickou doktrinu, jez je povazovana za jednu
+z nejkoherentnéjsich, jaka byla kdy v oblasti spole¢enskych véd vytvofena.
+
+Dulezitou soucasti jeho dila je také nauka o prumyslovych a
+militaristickych spolecénostech.
+
+Prumyslové spoleénosti: Industrialismus jako dusledek spole¢enské
+organizace prace, ktera je zalozena na dobrovolnych smluvnich vztazich,
+decentralizaci statni spravy, smyslu pro individuaini svobodu, védomi vlastnich
+prav a respektu k pravum druhych, mirumilovnosti a malém respektu k autorité.
+Sméfuje k pfekonani pfehrad mezi narodnostmi a staty.
+
+Militaristické spoleénosti: Tento typ spoleénosti vtiskuje jejim ¢lenum
+takové charakterové rysy jako je: touha po pomsté, prehnany patriotismus,
+poslusnost vuci autorité, nedostatek viastni iniciativy, spoléhani na
+porucénikovani statu.
+
+Herbert Spencer je také povazovan za zakladatele klasického
+liberalismu.
+
+Teoretické pristupy
+
+Rozvinul organickou teorii spoleénosti. Reprezentuje biologicky smér
+v sociologii (evolucionismus, organicismus). Dospiva k politické doktriné
+liberalismu.
+
+e Na zakladé analogie mezi organismem a spolecénosti vytvari vykladovy
+model spoleénosti, jakysi kli¢é k vysvétleni spolecenského Zivota. Na tuto
+mySlenku také navazuje T.Parsons. Dle principu evoluce pfechazi hmota
+z neuréité a nesouvislé stejnorodosti v urcitou souvislou ruznorodost.
+Zakladni pojmy teorie evoluce jsou u Spencera:
+
+1) Integrace (cesta k vétSi stejnorodosti)
+
+2) Diferenciace (cesta k vét8i rozmanitosti)
+
+3) Determinace (uréitost)
+
+4) Rovnovaha
+
+Cim vy88i misto zaujima biologicky organismus v evoluéni stupnici, tim
+
+vétSi je diferenciace mezi jeho organy a morfologickou strukturou, tim vétsi je
+délba funkci mezi organy. —> Posuzovani ruznych typu spoleénosti
+(militaristickéindustrialni).
+
+Zpusob komunikace obsahti masové kultury nam zaroven vymezuje jeji dalSi
+viastnosti a to zformalizovani a zvécnéni sdélovacich cest. Sdélovani obsahu
+
+{e Souhrn
+
+Masova spoleénost souvisi s industrialni dobou a pfeménou tradiéni spoleénosti
+ve spoleénost moderni. V masové spoleénosti hraji dulezitou roli média. S nimi
+je spojovan pojem masova komunikace. Masova komunikace, tak jak je
+vnimana v nasi praci, je vazana na technické prostfedky, které se objevuji
+v prubéhu procesu zmasovéni.
+
+8 Rodina a jeji misto v socializaci Clovéka
+
+ 
+
+{4-4 Cile
+
+Problematizovat rodinu jako socialni utvar, ktery plini fadu nezastupitelnych
+funkci vuéi aktérum socialniho Zivota, a to v prubéhu celého jejich zivota.
+
+Casova naroénost
+2 hodiny
+
+{J Pojmy k zapamatovani
+rodina, manzelstvi, nuklearni rodina, rozSifena rodina, monogamie, polygamie,
+citovy individualismus, patrilinearita, matrilinearita, neolokalita, nuklearni rodina
+
+8.1 Rodina jako spoleéenska instituce
+
+Rodina je universalni lidska instituce (zpusob, jakym lidé v dané kulture
+délaji urcitou véc. Za instituci povaZujeme kazdy zpusob jednani slouzici
+napInéni urcité realni nebo fiktivni potfeby... viz instituce)
+
+Rodina — mala primarni spole¢enska skupina, zalozena na svazku muze a
+zeny, na pokrevnim vztahu rodi¢u a déti ¢i vztahu jej substituujicim (osvojeni),
+na spoleéné domacnosti, jejiz Clenové pini spole¢ensky uréené a uznané role
+vyplyvajici ze souziti, a na souhrnu funkci, jez podminuji existenci tohoto
+spolecenstvi a davaji mu vlastni vyznam ve vztahu k jednotlivcum i celé
+spoleénosti
+
+- predstavuje skupinu osob primo spjatych pribuzenskymi vztahy, jejiz
+dospéli Elenové jsou odpovédni za vychovu déti
+
+Funkce rodiny:
+
+- v déjinném vyvoji se fada funkci rodiny ménila, v soucasnosti:
+
+5.3 Charakteristika postmoderni doby
+
+Moderni doba dala vzniknout postmodernismu, ktery na ni reaguje,
+odmita jeji postoj k Zivotu, svétu. Pojem postmoderni se poprve objevil ve 30.
+letech 20. stoleti, avSak kintenzivnimu rozvoji postmodernismu doSslo az
+vlétech sedmdesatych. V 80. letech je postmoderni doba jiz rozvinuta a
+vpiném béhu. Postmodernismus pfeved! teorii literarniho dekonstruktivismu -
+text ziskava vyznam, az ve chvili kdy, k nému pfistupuje Ctenar, tedy vykladu je
+tolik, kolik je €tenaru - na cely svét.
+
+Teoretici vidi pricinu vzniku postmoderni doby v pfichodu informaéni
+doby. Informaéni doba namisto vyroby zbozi, typické pro moderni dobu, pyesla
+k vyrobé informaci. Symbolem moderni doby byla tovarna, kdezto u informaéni
+doby to je pocitaé. Informaéni spole¢nost funguje na zakladé komunikaénich siti
+obepinajicich celou zemi, namisto centralizovaného fizeni doby moderni.
+Komunikaéni sité umozhuji pristup k informacim odkudkoliv na svété a to ihned,
+coz z celého svéta déla jednu globalni obec.
+
+Ustfedni vétou postmodernismu je ,,VSechno je rozdil“. Postmodernismus
+predstavuje konec jednoho univerzalniho pohledu na svét, vyznacuje se
+relativismem a pluralismem. Odmita klasické pojeti pravdy, jako shodu tvrzeni
+s objektivni realitou, ponévadz pravda vznika, az kontaktem jedince se svym
+okolim, pro kazdého je tedy jinad a je spolecensky podminéna.
+Postmodernismus duvéfuje citim a intuici stejné jako rozumu. Poznani
+nepoklada za objektivni, upiné, ani ve své podstaté za dobré. Odklani se i od
+viry v nutnost pokroku a pfinasi pesimistické nahlizeni svéta. Jedinci pocituji
+nutnost spoluprace s prirodou na misto jejiho ovladani. Svét poklada vice nez
+za mechanicky, za historicky a vztahovy. Objektivni neni ani prace badatelu,
+nybrz je historicky a kulturné podminéna. Skuteénost je neurcita, relativni a
+spojena s ucasti vSech. Postmoderni spoleénost je komunalni spoleénosti, ve
+které spoleéenskou jednotkou neni jedinec, ale spolecenstvi a existuje zde
+nutnost spolecéenského rozhodnuti, namisto souboru jednotlivych rozhodnuti.
+Jedinec neni pokladan za nezavislého, nezaujatého a rozumového, je vniman
+v ramci prirody a spoleénosti.
+
+Postmodernismus neni pouze_ intelektualnim postojem, nybrz se
+projevuje v celém kulturni svété i Zivoté spoleénosti.
+
+Budeme-li hledat v socio kulturnim prostoru zalezitost, komunikaéni
+prvek, ktery vstupuje do Zivota kazdého z nas a velkou mérou ovlivhuje nase
+postoje, rozhodné budeme jmenovat televizi. Teoretici nékdy oznacuji televizi
+za nejvystiznéjsi obraz postmoderni doby, ponévadz naplfuje ve svém stylu
+prace hlavni rysy postmodernismu. Televize slucuje neslucitelné. Stira rozdil
+mezi pritomnosti a minulosti, mistnim a vzdalenym, mezi skuteéné vyznamnym
+a trivialnim a pfedevSim mezi fikci a skuteénosti. Lidé uvéfili, Ze televize
+predklada samotné skuteéné udalosti bez vykladu, upravy
+ci komentafe. Stala se ,realnym svétem* a televizni reportaz ziskala postaveni
+méfitka skuteéného Zivota. Spolu s dalSimi nejmodernéjsimi médii je primo
+symbolem postmoderny a je hlasnou troubou personalizace.
+
+* koordinovanéjsi forma vlady, moc, stat * pismo, uméni — civilizace *
+odpoutani velké Casti obyvatelstva od vyroby potravin — slozita délba prace +
+podstatni rozhodnuti legitimizovana tradici
+
+3.Diferenciace funkcionalni -  charakteristické pro soucasné
+spolecnosti
+
+- industrializace — v mnoha smérech zcela odli$né od predchazejicich
+spoleénosti - obZiva v tovarnach — urbanizace — komplexnéjsi formy viady —
+vznik integrovanych narodnich spolecenstvi na zakladé cestovani a
+komunikace —narodni stat — zakony — kapital, konkurence
+
+Industrialni spoleénost: koordinace stroju a lidi, soudoba, technicky
+vyspéla spolecnost s urcitymi spoleénymi znaky jak v ekonomice, tak v kulture.
+Znaky: 1. podnik je plné oddélen od rodinnych svazku 2. prumyslovy podnik
+vede k novému typu délby prace 3. akumulace kapitalu 4. koncentrace pracovni
+sily a pracovniho mista. Zmény v Zivotnim zpusobu: -tlak na zvySovani
+kvalifikace — pUsobeni masovych sdélovacich prostiedktu — konfrontace s
+umélym, technicky vyspélym svétem — ideal bohatého, uspéSného Clovéka
+nemuze byt realizovan obecné
+
+Postindustrialni spoleénost: piechod od vyroby k ekonomickému rustu
+fizenému na zakladé informaci, snaha o vyklad spoleénosti od 50. let 20.stol.
+(Riesmann, Bell, Touraine)
+
+Formovani zcela jiné vladnouci elity. Znaky: 1. pfechod od hospodaiyské
+vyroby k ekonomice sluzeb 2. pfevaha tfidy odbornikt a techniku 3. priorita
+teoretickych znalosti 4. planovan { technologického rustu 5. vytvofeni
+intelektualni technologie — Spoletnost védéni
+
+Novi socialni aktéri — hybné sily vyvoje — kvalifikovani védci a technici,
+experti i zaméstnanci také vzdélanf). Protipdlem je technokracie ( technokraté,
+byrokracie)
+
+Postmoderni spoleénost: konec moderni doby, ktery neni chapan jako
+zlom, ale jako transformace
+
+Etzioni (1968) komunikaéni, védecké a energetické technologie méni
+zivot. Spoleénost se vyviji pluralisticky. Znaky: 1. spoleénost zalozena na
+vyspélé technologii, fascinovana info explozi, konzum, medialni obrazy 2.
+simulace se stavaji vét8i realitou nez realita sama 3. distanc od minulosti,
+dynamika ve vSech ohledech 4. Spoleénost, ktera je definovana diferenciaci
+funkcionalné diferencovana, slozita - komplexni (Luhmann)
+
+¥ exogamie — zakaz uzavirani manzelstvi mezi ¢leny rodiny — zalezi na
+rozsahu skupiny, v niz exogamie plati (v ruznych spoleénostech ruzné)
+
+Y Patrilokalni rodina — spolecensky pfijaté instituce prikazuji pfestéhovat
+se do obydli otce
+
+¥ Matrilokalni rodina - ..... do obydli matky
+
+& Matriarchalni rodina — fizena matkou rodu jako nejvy8$si autoritou a
+moci
+
+4 Patriarchalni rodina — plati vyluéna a neomezena moc otce
+
+4 Egalitarni rodina — Zena s muzem stejna prava (v ramci emancipace
+zen, rozSifena v sou€asnych vysoce industr. spoleénostech)
+
+9 Kapitoly ze systematické sociologie — socialni utvary a
+
+ 
+
+skupiny
+
+Cile
+Cilem této kapitoly je vymezit misto a Ulohy socialnich Utvaru a skupin ve
+spoletnosti. Seznamit s jejich roli pri orientaci Clovéka v socialnim svété
+
+Casova naroénost
+2 hodiny
+
+9.1 Nejprve vysvétleni systémoveého pyistupu
+
+V sociologii se spojmem systém, systémovy, systematicky, setkavame
+pomérné Casto, zejména v sociologii moderni. Ne vzdy pojem systémovost
+chapeme spravné. VétSinou jej vysvétlujeme mechanisticky.
+
+9.1.1 Mechanisticky vs. systémovy piistup
+
+Mechanisticky pfistup — vysvétluje vztahy mezi jednotlivymi jevy na zakladé
+kauzality, tedy na vztahu mezi pficinou a jejim nasledkem. Kauzalita ma svoji
+definici blizko k axiomu (postulat, tvrzeni; zakladni véta, ktera se pfijima a bez
+dukazu se povazuje za pravdivou). Protoze se jedna 0 jev, ktery nelze dokazat
+a ktery byl odvozen ze zkuSenosti.
+
+Systémovy piistup nabizi nové zpusoby feSeni jevu a predstavuje tak novy
+zpusob mySleni. Oproti mechanistickému pfistupu, ktery preferuje analyticky
+zpusob mySleni a feSeni problému, systémovy pfistup se vyznacéuje zfetelem k
+celku; vSechny jevy a procesy jsou soucasti vétSich celku a dany problém je
+nutné hodnotit komplexné. Systémovy pfistup pfinasi synteticky zpUsob
+mySleni. Synteticky pristup vysvétluje viastnosti prvkt na zakladé jejich funkci a
+vazeb v systému. (BureS, 2007)
+
+1 Vymezeni predmétu sociologie
+
+Ein
+*  Cile
+
+Seznamit se zakladnimi sociologickymi vychodisky pfi posuzovani reality.
+Pfedstavit sociologii jako védni disciplinu a jeji provazanost s ostatnimi
+spolecéenskymi védami. Vysvétlit sociologicky pristup ke spolecenské realité
+prostfednictvim praci zakladatelti sociologie.
+
+{ Casova naroénost
+2 hodiny
+
+° — Pojmy k osvojeni
+Spoleénost, sociologie, pozitivismus, biologismus, sociologismus, socialni fakta,
+socialni védomi, evolucionismus, paradigma, anomie, socialni solidarita, fad.
+
+1.1 Pojeti sociologie
+
+Sociologie (z lat. socius=druh, nebo societas=spoleénost ; z fec. logos=slovo,
+rec, véda)
+
+Sociologie je védou o modernich spoleénostech, o jejich vzniku, vyvojové
+dynamice a proménach, 0 jejich vnitfni struktufe (socialni a tridni) a o povaze a
+proménach vztahtu mezi jednotlivymi podstatnymi socialnimi subsystémy
+(ekonomickym, politickym, kulturnim, naboZenskym atd.).
+
+Sociologie se povahou svého pfedmétu a svym zasazenim do
+socialniho kontextu (ktery je sam pfedmétem jejiho zkoumani) podstatné liSi od
+naprosté vétSiny jinych véd.
+
+Jako véda o spoleénosti, spole¢enskych jevech, strukturach a procesech
+a jejich vzajemnych vztazich nebyl a neni jednotné definovana z hlediska svého
+predmétu a zakladni metody.
+
+Osamostatnila se pomérné pozdé a neustdle stala pifed problémem
+svého odliSeni od jinych, jiz viceméné konstituovanych véd, z nichz dilem
+vzeSla, s nimiz dilem souvisela a jimz dilem davala perspektivné zaklady (
+filosofie, pravni véda, polit. véda, etnografie ).
+
+Pojem sociologie zavedl a poprvé uzil zakladatel oboru August Comte ve
+svém dile Cours de la philosophie positive v r. 1837. Do té doby pouzival pro
+obor starSi oznaceni ,socialni fyzika“ , které zaved! jeho ucitel C.H. Saint-
+Simon. Aékoli Comte pouZzival pro sociologii jesté oznaceni ,socialni filozofie“ a
+»politicka filozofie“, a ackoliv pojem sociologie je vytvofen gramaticky
+nespravné, pomérné rychle se obecné ual.
+
+Sociologie je védou multiparadigmatickou. Sociologické poznani neni
+kumulativni. Zakladni déleni rozli$uje sociologicka paradigmata objektivisticka a
+interpretativni.
+
+Objektivisté povazuji socialni realitu za objektivni skute¢nost existujici
+vné individui. Zabyva se zkoumanim socialnich faktu, socialnich zmén, socialni
+struktury.
+
